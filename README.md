@@ -1,1 +1,3 @@
 # JobApplication-Spring-Boot
+
+Simple application where I practice Spring Boot. Great experience whit: Connection with database (I used MySQL), Hibernate relations ORM, RestFull Web Services, Thymeleaf for web pages, Spring Security (authentication, authorization, encoding/decoding passwords (bcrypt)), basic Lombok...
