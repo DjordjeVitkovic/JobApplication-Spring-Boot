@@ -1,0 +1,614 @@
+/*! Forms Plus: JS.1.5.1 - 2019-05-20 */
+.p-form-simple-slateGray .panel-fp {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .panel-fp > .panel-heading {
+  background-color: #7b8a99;
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .panel-fp > .panel-body {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .progress-bar-fp {
+  background-color: #434d57;
+}
+.p-form-simple-slateGray .btn.p-active-btn,
+.p-form-simple-slateGray .btn:hover,
+.p-form-simple-slateGray .btn:focus {
+  background-color: #929fab;
+}
+.p-form-simple-slateGray .radio label a,
+.p-form-simple-slateGray .checkbox label a,
+.p-form-simple-slateGray .p-switch label a,
+.p-form-simple-slateGray .p-radioswitch label a {
+  color: #434d57;
+}
+.p-form-simple-slateGray .p-show-block-heading a {
+  color: #434d57;
+}
+.p-form-simple-slateGray .p-check-icon .p-check-middle {
+  color: #a9b3bd;
+}
+.p-form-simple-slateGray .p-check-bordered {
+  border-color: #8794a2;
+}
+.p-form-simple-slateGray .p-check-next:checked ~ .p-check-container .p-check-highlight,
+.p-form-simple-slateGray :checked ~ .p-check-highlight {
+  background-color: #606e7c;
+}
+.p-form-simple-slateGray label:hover .p-check-active-icon,
+.p-form-simple-slateGray .p-check-next ~ .p-check-container:hover .p-check-active-icon,
+.p-form-simple-slateGray label:hover .p-check-icon .p-check-middle,
+.p-form-simple-slateGray .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-middle {
+  color: #929fab;
+}
+.p-form-simple-slateGray label:hover .p-check-icon .p-check-block,
+.p-form-simple-slateGray .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-block {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray label:hover .p-switch-icon,
+.p-form-simple-slateGray .p-check-next ~ .p-check-container:hover .p-switch-icon {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray label:hover .p-check-highlight,
+.p-form-simple-slateGray .p-check-next ~ .p-check-container:hover .p-check-highlight {
+  background-color: #677685;
+}
+.p-form-simple-slateGray label:hover .p-check-bordered,
+.p-form-simple-slateGray .p-check-next ~ .p-check-container:hover .p-check-bordered {
+  border-color: #c6ccd3;
+}
+.p-form-simple-slateGray .p-picture-pick .p-preview-name {
+  background-color: rgba(0,0,0,0.7);
+}
+.p-form-simple-slateGray .p-picture-pick :checked ~ .p-preview-name {
+  background-color: rgba(67,77,87,0.7);
+}
+.p-form-simple-slateGray .p-picture-pick:hover .p-preview-name {
+  background-color: rgba(85,97,110,0.7);
+}
+.p-form-simple-slateGray .p-show-block:checked + .p-show-block-heading:hover,
+.p-form-simple-slateGray .p-show-block-heading:hover {
+  color: #929fab;
+}
+.p-form-simple-slateGray .p-picture-pick .p-switch-icon,
+.p-form-simple-slateGray .p-picture-pick .p-check-block {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .p-radio-color .p-color-block {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .p-form-bg,
+.p-form-simple-slateGray .p-form {
+  background: #708090;
+}
+.p-form-simple-slateGray .p-colored-text {
+  color: #434d57;
+}
+.p-form-simple-slateGray .p-alt-colored-text {
+  color: #929fab;
+}
+.p-form-simple-slateGray .p-colored-link {
+  color: #434d57;
+}
+.p-form-simple-slateGray .p-colored-link:hover {
+  color: #929fab;
+}
+.p-form-simple-slateGray .p-action-link:hover {
+  color: #929fab;
+}
+.p-form-simple-slateGray hr {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray hr.p-flat {
+  border-color: #7b8a99;
+}
+.p-form-simple-slateGray .p-table > thead > tr > td,
+.p-form-simple-slateGray .p-table > tbody > tr > td,
+.p-form-simple-slateGray .p-table > tfoot > tr > td,
+.p-form-simple-slateGray .p-table > thead > tr > th,
+.p-form-simple-slateGray .p-table > tbody > tr > th,
+.p-form-simple-slateGray .p-table > tfoot > tr > th {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .p-table.table-striped > thead {
+  background-color: #7b8a99;
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .p-table.table-striped > tbody > tr:nth-of-type(even) {
+  background-color: #7b8a99;
+}
+.p-form-simple-slateGray .p-table.table-bordered {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .p-table.table-bordered > thead > tr > td,
+.p-form-simple-slateGray .p-table.table-bordered > tbody > tr > td,
+.p-form-simple-slateGray .p-table.table-bordered > tfoot > tr > td,
+.p-form-simple-slateGray .p-table.table-bordered > thead > tr > th,
+.p-form-simple-slateGray .p-table.table-bordered > tbody > tr > th,
+.p-form-simple-slateGray .p-table.table-bordered > tfoot > tr > th {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray select.form-control option {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .form-control:focus ~ .input-group-icon,
+.p-form-simple-slateGray .form-control:hover ~ .input-group-icon,
+.p-form-simple-slateGray .input-group:hover .input-group-icon,
+.p-form-simple-slateGray .p-file-wrap [type="file"]:hover ~ .input-group .input-group-icon,
+.p-form-simple-slateGray .sp-input:focus ~ .input-group-icon,
+.p-form-simple-slateGray .sp-input:hover ~ .input-group-icon,
+.p-form-simple-slateGray .form-control:focus ~ .p-select-arrow,
+.p-form-simple-slateGray .form-control:hover ~ .p-select-arrow,
+.p-form-simple-slateGray .input-group:hover .p-select-arrow,
+.p-form-simple-slateGray .p-file-wrap [type="file"]:hover ~ .input-group .p-select-arrow,
+.p-form-simple-slateGray .sp-input:focus ~ .p-select-arrow,
+.p-form-simple-slateGray .sp-input:hover ~ .p-select-arrow,
+.p-form-simple-slateGray .form-control:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-slateGray .form-control:hover ~ .input-group-addon .p-addon-bg,
+.p-form-simple-slateGray .input-group:hover .input-group-addon .p-addon-bg,
+.p-form-simple-slateGray .p-file-wrap [type="file"]:hover ~ .input-group .input-group-addon .p-addon-bg,
+.p-form-simple-slateGray .sp-input:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-slateGray .sp-input:hover ~ .input-group-addon .p-addon-bg {
+  border-color: #929fab;
+  color: #929fab;
+}
+.p-form-simple-slateGray .p-custom-arrow .p-select-arrow {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .input-group-btn .btn:hover,
+.p-form-simple-slateGray .input-group-btn .btn:focus,
+.p-form-simple-slateGray .p-file-wrap [type="file"]:hover ~ .input-group .input-group-btn .btn {
+  background-color: #929fab;
+}
+.p-form-simple-slateGray .p-no-preview {
+  background-color: #929fab;
+  border-color: #8492a0;
+}
+.p-form-simple-slateGray .p-preview-wrap .p-preview-actions .p-preview-action:hover {
+  color: #708090;
+}
+.p-form-simple-slateGray .ui-autocomplete {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .ui-autocomplete .ui-state-focus,
+.p-form-simple-slateGray .ui-autocomplete .ui-state-active {
+  background-color: rgba(255,255,255,0.1);
+}
+.p-form-simple-slateGray .sp-container {
+  background-color: #55616e;
+}
+.p-form-simple-slateGray .sp-initial,
+.p-form-simple-slateGray .sp-clear,
+.p-form-simple-slateGray .sp-palette .sp-thumb-el {
+  border-color: #707f90;
+  color: #707f90;
+}
+.p-form-simple-slateGray .sp-clear:hover,
+.p-form-simple-slateGray .sp-palette .sp-thumb-el:hover,
+.p-form-simple-slateGray .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #3a434b;
+  color: #3a434b;
+}
+.p-form-simple-slateGray .sp-clear:hover:after,
+.p-form-simple-slateGray .sp-palette .sp-thumb-el:hover:after,
+.p-form-simple-slateGray .sp-palette .sp-thumb-el.sp-thumb-active:after {
+  border-color: #f3f5f6;
+}
+.p-form-simple-slateGray .sp-choose,
+.p-form-simple-slateGray .sp-cancel,
+.p-form-simple-slateGray .sp-palette-toggle {
+  color: #f3f5f6;
+}
+.p-form-simple-slateGray .sp-choose:hover,
+.p-form-simple-slateGray .sp-cancel:hover,
+.p-form-simple-slateGray .sp-palette-toggle:hover,
+.p-form-simple-slateGray .sp-choose:focus,
+.p-form-simple-slateGray .sp-cancel:focus,
+.p-form-simple-slateGray .sp-palette-toggle:focus,
+.p-form-simple-slateGray .sp-choose:active,
+.p-form-simple-slateGray .sp-cancel:active,
+.p-form-simple-slateGray .sp-palette-toggle:active {
+  color: #acb5bf;
+}
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-alpha-inner,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-color,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-hue {
+  border-color: #a9b3bd;
+}
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-initial,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-clear,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el {
+  border-color: #a9b3bd;
+  color: #a9b3bd;
+}
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-clear:hover,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el:hover,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #55616e;
+  color: #55616e;
+}
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-dragger:after,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-alpha-handle:after,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-slider:after {
+  border-color: #d2d7dc;
+}
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-choose:hover,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-cancel:hover,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-palette-toggle:hover,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-choose:focus,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-cancel:focus,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-palette-toggle:focus,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-choose:active,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-cancel:active,
+.p-form-simple-slateGray .p-colorpick-no-bg .sp-flat .sp-palette-toggle:active {
+  background-color: #929fab;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget {
+  background-color: #7b8a99;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #a4aeb8;
+  background-color: #3a434b;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table thead th {
+  background-color: #3a434b;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table td div:hover,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table td span:hover {
+  color: #5e6b79;
+  background-color: #9ea9b4;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table td a,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table td .btn {
+  color: #b5bdc5;
+  background-color: transparent;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #3a434b;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table .old,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table .new {
+  color: #d4d9de;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table td .active,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table .active div {
+  background-color: #3a434b;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(181,189,197,0);
+  border-bottom-color: #b5bdc5;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #9ea9b4;
+  background-color: #7b8a99;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #9ea9b4;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #55626e;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
+  border-top-color: #7b8a99;
+}
+.p-form-simple-slateGray .bootstrap-datetimepicker-widget.dropdown-menu.bottom:after {
+  border-bottom-color: #3a434b;
+}
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #3a434b;
+}
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead .dow {
+  color: #3a434b;
+}
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #3a434b;
+}
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(181,189,197,0);
+  border-bottom-color: #b5bdc5;
+}
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #929fab;
+}
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #929fab;
+}
+.p-form-simple-slateGray .p-datetime-no-bg .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #929fab;
+}
+.p-form-simple-slateGray .p-js-link {
+  color: #b5bdc5;
+}
+.p-form-simple-slateGray .p-js-link:hover,
+.p-form-simple-slateGray .p-show-js-block .p-js-link:hover,
+.p-form-simple-slateGray .p-field-toggled .p-js-link:hover,
+.p-form-simple-slateGray .p-js-link:focus,
+.p-form-simple-slateGray .p-show-js-block .p-js-link:focus,
+.p-form-simple-slateGray .p-field-toggled .p-js-link:focus {
+  color: #55616e;
+}
+.p-form-simple-slateGray .p-js-active-link,
+.p-form-simple-slateGray .p-show-js-block .p-js-link,
+.p-form-simple-slateGray .p-field-toggled .p-js-link {
+  color: #434d57;
+}
+.p-form-simple-slateGray .input-group .realperson-challenge .realperson-regen {
+  color: #434d57;
+}
+.p-form-simple-slateGray .input-group .realperson-challenge .realperson-regen:hover {
+  color: #929fab;
+}
+.p-form-simple-slateGray .input-group .realperson-challenge .realperson-text:hover {
+  color: #434d57;
+}
+.p-form-simple-slateGray .p-slider-block .p-js-value,
+.p-form-simple-slateGray .p-sl-tip {
+  background-color: #708090;
+  border-color: #55616e;
+}
+.p-form-simple-slateGray .p-sl-tip:before {
+  border-color: rgba(85,97,110,0);
+}
+.p-form-simple-slateGray .ui-slider:before {
+  border-color: #b5bdc5;
+  background-color: #708090;
+}
+.p-form-simple-slateGray .ui-slider-handle:after {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .ui-slider-handle .p-sl-icon {
+  color: #708090;
+}
+.p-form-simple-slateGray .ui-slider-handle.ui-state-focus:after,
+.p-form-simple-slateGray .ui-slider-handle.ui-state-active:after,
+.p-form-simple-slateGray .ui-slider-handle.ui-state-hover:after {
+  border-color: #55616e;
+}
+.p-form-simple-slateGray .ui-slider-handle.ui-state-focus .p-sl-icon,
+.p-form-simple-slateGray .ui-slider-handle.ui-state-active .p-sl-icon,
+.p-form-simple-slateGray .ui-slider-handle.ui-state-hover .p-sl-icon {
+  background-color: #55616e;
+}
+.p-form-simple-slateGray .ui-slider-horizontal .p-sl-tip:before {
+  border-bottom-color: #55616e;
+}
+.p-form-simple-slateGray .ui-slider-vertical .p-sl-tip:before {
+  border-right-color: #55616e;
+}
+.p-form-simple-slateGray .sl-v-simple .ui-slider:before {
+  background-color: #b5bdc5;
+}
+.p-form-simple-slateGray .sl-v-modern .ui-slider:before,
+.p-form-simple-slateGray .sl-v-bordered .ui-slider:before {
+  border-color: #434d57;
+}
+.p-form-simple-slateGray .sl-v-top .ui-slider:before {
+  background-color: #b5bdc5;
+}
+.p-form-simple-slateGray .sl-v-flat .ui-slider:before {
+  background-color: #b5bdc5;
+}
+.p-form-simple-slateGray .pt-form-cross-panel .p-check-icon .p-check-block {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .pt-form-cross-panel .p-switch-icon {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .p-rating .p-field-cancel {
+  color: #a9b3bd;
+}
+.p-form-simple-slateGray .p-rating .p-rating-icon {
+  color: #a9b3bd;
+}
+.p-form-simple-slateGray .p-rating .p-rating-active-icon + .p-rating-icon {
+  color: #a9b3bd;
+}
+.p-form-simple-slateGray .p-rating input[type="radio"] ~ label:hover .p-rating-icon,
+.p-form-simple-slateGray .p-rating input[type="radio"] ~ label:hover ~ label .p-rating-icon,
+.p-form-simple-slateGray .p-rating [type="radio"]:checked ~ label .p-rating-icon {
+  color: #fff;
+}
+.p-form-simple-slateGray .p-rating input[type="radio"] ~ label.p-field-cancel:hover {
+  color: #fff;
+}
+.p-form-simple-slateGray .p-rating input[type="radio"] ~ label.p-field-cancel:hover ~ label .p-rating-icon,
+.p-form-simple-slateGray .p-rating .p-rating-cancel:checked ~ label .p-rating-icon,
+.p-form-simple-slateGray .p-rating *:hover [type="radio"] ~ label .p-rating-icon {
+  color: #a9b3bd;
+}
+.p-form-simple-slateGray .p-form-steps:before {
+  background-color: #929fab;
+}
+.p-form-simple-slateGray .p-form-steps > li.active .p-step:before {
+  background-color: #55616e;
+}
+.p-form-simple-slateGray .p-form-steps > li.active ~ li .p-step-text {
+  background-color: #929fab;
+}
+.p-form-simple-slateGray .p-step {
+  color: #8794a2;
+}
+.p-form-simple-slateGray .p-step .p-step-text {
+  background-color: #55616e;
+}
+.p-form-simple-slateGray .nav-tabs {
+  border-color: #929fab;
+  background-color: #929fab;
+}
+.p-form-simple-slateGray .nav-tabs > li > label:hover,
+.p-form-simple-slateGray .nav-tabs > li > label:focus {
+  background-color: #55616e;
+}
+.p-form-simple-slateGray .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-slateGray .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-slateGray .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-slateGray .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-slateGray .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-slateGray .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-slateGray .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-slateGray .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-slateGray .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-slateGray .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-slateGray .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-slateGray .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-slateGray .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-slateGray .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-slateGray .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .p-title-line,
+.p-form-simple-slateGray .p-title-step-line,
+.p-form-simple-slateGray .p-title-side {
+  background-color: #929fab;
+}
+.p-form-simple-slateGray .p-tooltip .p-tooltip-content {
+  background-color: #55616e;
+}
+.p-form-simple-slateGray .p-tooltip .p-tooltip-content:after {
+  border-color: rgba(85,97,110,0);
+  border-top-color: #55616e;
+}
+.p-form-simple-slateGray .p-tooltip.p-tooltip-bottom .p-tooltip-content:after,
+.p-form-simple-slateGray .p-tooltip.p-tooltip-bottom-left .p-tooltip-content:after,
+.p-form-simple-slateGray .p-tooltip.p-tooltip-bottom-right .p-tooltip-content:after {
+  border-top-color: rgba(85,97,110,0);
+  border-bottom-color: #55616e;
+}
+.p-form-simple-slateGray .p-bordered {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .p-shadowed.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-slateGray .p-bordered.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-slateGray .p-inset.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .p-tabs-offset > .nav-tabs > li > label {
+  background-color: #8794a2;
+}
+.p-form-simple-slateGray .p-tabs-offset > .nav-tabs > li > label:hover,
+.p-form-simple-slateGray .p-tabs-offset > .nav-tabs > li > label:focus {
+  background-color: #929fab;
+}
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-slateGray .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #708090;
+}
+.p-form-simple-slateGray .p-tabs-offset.p-bordered > .nav-tabs {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .p-tabs-offset.p-bordered > .nav-tabs > li > label {
+  border-bottom-color: #929fab;
+}
+.p-form-simple-slateGray .p-tabs-offset.p-bordered > .nav-tabs + .tab-content {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1):last-child > label,
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2):last-child > label,
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3):last-child > label,
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4):last-child > label,
+.p-form-simple-slateGray .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5):last-child > label {
+  border-right-color: #929fab;
+}
+.p-form-simple-slateGray .p-alt-back,
+.p-form-simple-slateGray .p-alt-back .p-form-bg {
+  background-color: #708390;
+}
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #708390;
+}
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-slateGray .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #708390;
+}
+.p-form-simple-slateGray .p-alt-back .p-table.table-striped > tbody > tr:nth-of-type(even),
+.p-form-simple-slateGray .p-alt-back .p-table.table-striped > thead {
+  background-color: #697b88;
+}
+.p-form-simple-slateGray .p-alt-back .panel-fp > .panel-heading {
+  background-color: #697b88;
+}
+.p-form-simple-slateGray .p-alt-back .panel-fp > .panel-body {
+  background-color: #708390;
+}
+.p-form-simple-slateGray .p-alt-back hr.p-flat {
+  border-color: #697b88;
+}
+.p-form-simple-slateGray .p-alt-back .p-custom-arrow .p-select-arrow {
+  background-color: #708390;
+}
+.p-form-simple-slateGray .p-alt-back .p-picture-pick .p-switch-icon,
+.p-form-simple-slateGray .p-alt-back .p-picture-pick .p-check-block {
+  background-color: #708390;
+}
+.p-form-simple-slateGray .p-bordered > .nav-tabs {
+  border-color: #929fab;
+}
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-slateGray .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #708390;
+}
+.p-form-simple-slateGray .p-alt-back .pt-form-cross-panel .p-check-icon .p-check-block,
+.p-form-simple-slateGray .p-alt-back .pt-form-cross-panel .p-switch-icon {
+  background-color: #708390;
+}

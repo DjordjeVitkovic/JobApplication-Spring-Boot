@@ -1,0 +1,7 @@
+{
+    "errorData" : {
+        "block"     : "errorContentBlock",
+        "content"   : "<div class=\"alert alert-error\"><strong><i class=\"fa fa-times\"></i> Error:</strong> message example.</div>",
+        "step"      : 1
+    }
+}

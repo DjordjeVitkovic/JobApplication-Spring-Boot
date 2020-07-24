@@ -1,0 +1,83 @@
+.smart-sidemenu-wrap{
+    position: fixed;
+    top: 0;
+    overflow: auto;
+    height: 100%;
+    max-width: 180px;
+    padding: 20px 0;
+}
+
+.th-smart-sidemenu li a{
+    color: #767676;
+    padding: 5px 0 5px 8px;
+    display: block;
+    position: relative;
+}
+.th-smart-sidemenu li li a{
+    padding: 3px 0 3px 8px;
+}
+
+.th-smart-sidemenu a:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 1px;
+    display: none;
+    background-color: #4B0082;
+}
+
+.th-smart-sidemenu a:hover{
+    text-decoration: none;
+    color: #4B0082;
+    position: relative;
+}
+
+.th-smart-sidemenu .active > a{
+    color: #4B0082;
+}
+
+.th-smart-sidemenu > .active > a{
+    font-weight: bold;
+}
+
+.th-smart-sidemenu .active > a:before,
+.th-smart-sidemenu a:hover:before{
+    display: block;
+}
+
+.th-smart-sidemenu .active > a:before{
+    width: 2px;
+}
+.th-smart-sidemenu .active > ul{
+    display: block
+}
+
+.th-smart-sidemenu,
+.th-smart-sidemenu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.th-smart-sidemenu{
+    font-size: 12px;
+}
+
+.th-smart-sidemenu ul{
+    display: none;
+    font-size: 95%;
+}
+
+.th-smart-sidemenu ul li > a{
+    padding-left: 16px;
+}
+
+.th-smart-sidemenu ul li li > a{
+    padding-left: 24px;
+}
+
+.th-smart-sidemenu{
+    padding-right: 10px;
+}

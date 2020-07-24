@@ -1,0 +1,1 @@
+<div class="alert alert-valid"><strong><i class="fa fa-check"></i> <?php echo $form->getExtraData('isDraft') ? 'Draft' : 'Job Brief' ?></strong> was successfully saved.</div>

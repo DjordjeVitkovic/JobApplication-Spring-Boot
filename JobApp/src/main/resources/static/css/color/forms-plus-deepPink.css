@@ -1,0 +1,614 @@
+/*! Forms Plus: JS.1.5.1 - 2019-05-20 */
+.p-form-simple-deepPink .panel-fp {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .panel-fp > .panel-heading {
+  background-color: #ff289c;
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .panel-fp > .panel-body {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .progress-bar-fp {
+  background-color: #ad005d;
+}
+.p-form-simple-deepPink .btn.p-active-btn,
+.p-form-simple-deepPink .btn:hover,
+.p-form-simple-deepPink .btn:focus {
+  background-color: #ff51af;
+}
+.p-form-simple-deepPink .radio label a,
+.p-form-simple-deepPink .checkbox label a,
+.p-form-simple-deepPink .p-switch label a,
+.p-form-simple-deepPink .p-radioswitch label a {
+  color: #ad005d;
+}
+.p-form-simple-deepPink .p-show-block-heading a {
+  color: #ad005d;
+}
+.p-form-simple-deepPink .p-check-icon .p-check-middle {
+  color: #ff7ac2;
+}
+.p-form-simple-deepPink .p-check-bordered {
+  border-color: #ff3da6;
+}
+.p-form-simple-deepPink .p-check-next:checked ~ .p-check-container .p-check-highlight,
+.p-form-simple-deepPink :checked ~ .p-check-highlight {
+  background-color: #ef0081;
+}
+.p-form-simple-deepPink label:hover .p-check-active-icon,
+.p-form-simple-deepPink .p-check-next ~ .p-check-container:hover .p-check-active-icon,
+.p-form-simple-deepPink label:hover .p-check-icon .p-check-middle,
+.p-form-simple-deepPink .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-middle {
+  color: #ff51af;
+}
+.p-form-simple-deepPink label:hover .p-check-icon .p-check-block,
+.p-form-simple-deepPink .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-block {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink label:hover .p-switch-icon,
+.p-form-simple-deepPink .p-check-next ~ .p-check-container:hover .p-switch-icon {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink label:hover .p-check-highlight,
+.p-form-simple-deepPink .p-check-next ~ .p-check-container:hover .p-check-highlight {
+  background-color: #ff008a;
+}
+.p-form-simple-deepPink label:hover .p-check-bordered,
+.p-form-simple-deepPink .p-check-next ~ .p-check-container:hover .p-check-bordered {
+  border-color: #ffadd9;
+}
+.p-form-simple-deepPink .p-picture-pick .p-preview-name {
+  background-color: rgba(0,0,0,0.7);
+}
+.p-form-simple-deepPink .p-picture-pick :checked ~ .p-preview-name {
+  background-color: rgba(173,0,93,0.7);
+}
+.p-form-simple-deepPink .p-picture-pick:hover .p-preview-name {
+  background-color: rgba(214,0,116,0.7);
+}
+.p-form-simple-deepPink .p-show-block:checked + .p-show-block-heading:hover,
+.p-form-simple-deepPink .p-show-block-heading:hover {
+  color: #ff51af;
+}
+.p-form-simple-deepPink .p-picture-pick .p-switch-icon,
+.p-form-simple-deepPink .p-picture-pick .p-check-block {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .p-radio-color .p-color-block {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .p-form-bg,
+.p-form-simple-deepPink .p-form {
+  background: #ff1493;
+}
+.p-form-simple-deepPink .p-colored-text {
+  color: #ad005d;
+}
+.p-form-simple-deepPink .p-alt-colored-text {
+  color: #ff51af;
+}
+.p-form-simple-deepPink .p-colored-link {
+  color: #ad005d;
+}
+.p-form-simple-deepPink .p-colored-link:hover {
+  color: #ff51af;
+}
+.p-form-simple-deepPink .p-action-link:hover {
+  color: #ff51af;
+}
+.p-form-simple-deepPink hr {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink hr.p-flat {
+  border-color: #ff289c;
+}
+.p-form-simple-deepPink .p-table > thead > tr > td,
+.p-form-simple-deepPink .p-table > tbody > tr > td,
+.p-form-simple-deepPink .p-table > tfoot > tr > td,
+.p-form-simple-deepPink .p-table > thead > tr > th,
+.p-form-simple-deepPink .p-table > tbody > tr > th,
+.p-form-simple-deepPink .p-table > tfoot > tr > th {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .p-table.table-striped > thead {
+  background-color: #ff289c;
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .p-table.table-striped > tbody > tr:nth-of-type(even) {
+  background-color: #ff289c;
+}
+.p-form-simple-deepPink .p-table.table-bordered {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .p-table.table-bordered > thead > tr > td,
+.p-form-simple-deepPink .p-table.table-bordered > tbody > tr > td,
+.p-form-simple-deepPink .p-table.table-bordered > tfoot > tr > td,
+.p-form-simple-deepPink .p-table.table-bordered > thead > tr > th,
+.p-form-simple-deepPink .p-table.table-bordered > tbody > tr > th,
+.p-form-simple-deepPink .p-table.table-bordered > tfoot > tr > th {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink select.form-control option {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .form-control:focus ~ .input-group-icon,
+.p-form-simple-deepPink .form-control:hover ~ .input-group-icon,
+.p-form-simple-deepPink .input-group:hover .input-group-icon,
+.p-form-simple-deepPink .p-file-wrap [type="file"]:hover ~ .input-group .input-group-icon,
+.p-form-simple-deepPink .sp-input:focus ~ .input-group-icon,
+.p-form-simple-deepPink .sp-input:hover ~ .input-group-icon,
+.p-form-simple-deepPink .form-control:focus ~ .p-select-arrow,
+.p-form-simple-deepPink .form-control:hover ~ .p-select-arrow,
+.p-form-simple-deepPink .input-group:hover .p-select-arrow,
+.p-form-simple-deepPink .p-file-wrap [type="file"]:hover ~ .input-group .p-select-arrow,
+.p-form-simple-deepPink .sp-input:focus ~ .p-select-arrow,
+.p-form-simple-deepPink .sp-input:hover ~ .p-select-arrow,
+.p-form-simple-deepPink .form-control:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-deepPink .form-control:hover ~ .input-group-addon .p-addon-bg,
+.p-form-simple-deepPink .input-group:hover .input-group-addon .p-addon-bg,
+.p-form-simple-deepPink .p-file-wrap [type="file"]:hover ~ .input-group .input-group-addon .p-addon-bg,
+.p-form-simple-deepPink .sp-input:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-deepPink .sp-input:hover ~ .input-group-addon .p-addon-bg {
+  border-color: #ff51af;
+  color: #ff51af;
+}
+.p-form-simple-deepPink .p-custom-arrow .p-select-arrow {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .input-group-btn .btn:hover,
+.p-form-simple-deepPink .input-group-btn .btn:focus,
+.p-form-simple-deepPink .p-file-wrap [type="file"]:hover ~ .input-group .input-group-btn .btn {
+  background-color: #ff51af;
+}
+.p-form-simple-deepPink .p-no-preview {
+  background-color: #ff51af;
+  border-color: #ff37a3;
+}
+.p-form-simple-deepPink .p-preview-wrap .p-preview-actions .p-preview-action:hover {
+  color: #ff1493;
+}
+.p-form-simple-deepPink .ui-autocomplete {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .ui-autocomplete .ui-state-focus,
+.p-form-simple-deepPink .ui-autocomplete .ui-state-active {
+  background-color: rgba(255,255,255,0.1);
+}
+.p-form-simple-deepPink .sp-container {
+  background-color: #d60074;
+}
+.p-form-simple-deepPink .sp-initial,
+.p-form-simple-deepPink .sp-clear,
+.p-form-simple-deepPink .sp-palette .sp-thumb-el {
+  border-color: #ff1493;
+  color: #ff1493;
+}
+.p-form-simple-deepPink .sp-clear:hover,
+.p-form-simple-deepPink .sp-palette .sp-thumb-el:hover,
+.p-form-simple-deepPink .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #990053;
+  color: #990053;
+}
+.p-form-simple-deepPink .sp-clear:hover:after,
+.p-form-simple-deepPink .sp-palette .sp-thumb-el:hover:after,
+.p-form-simple-deepPink .sp-palette .sp-thumb-el.sp-thumb-active:after {
+  border-color: #ffebf6;
+}
+.p-form-simple-deepPink .sp-choose,
+.p-form-simple-deepPink .sp-cancel,
+.p-form-simple-deepPink .sp-palette-toggle {
+  color: #ffebf6;
+}
+.p-form-simple-deepPink .sp-choose:hover,
+.p-form-simple-deepPink .sp-cancel:hover,
+.p-form-simple-deepPink .sp-palette-toggle:hover,
+.p-form-simple-deepPink .sp-choose:focus,
+.p-form-simple-deepPink .sp-cancel:focus,
+.p-form-simple-deepPink .sp-palette-toggle:focus,
+.p-form-simple-deepPink .sp-choose:active,
+.p-form-simple-deepPink .sp-cancel:active,
+.p-form-simple-deepPink .sp-palette-toggle:active {
+  color: #ff6bbb;
+}
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-alpha-inner,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-color,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-hue {
+  border-color: #ff7ac2;
+}
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-initial,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-clear,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el {
+  border-color: #ff7ac2;
+  color: #ff7ac2;
+}
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-clear:hover,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el:hover,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #d60074;
+  color: #d60074;
+}
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-dragger:after,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-alpha-handle:after,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-slider:after {
+  border-color: #ffc1e3;
+}
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-choose:hover,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-cancel:hover,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-palette-toggle:hover,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-choose:focus,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-cancel:focus,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-palette-toggle:focus,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-choose:active,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-cancel:active,
+.p-form-simple-deepPink .p-colorpick-no-bg .sp-flat .sp-palette-toggle:active {
+  background-color: #ff51af;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget {
+  background-color: #ff289c;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #ff70bd;
+  background-color: #990052;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table thead th {
+  background-color: #990052;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table td div:hover,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table td span:hover {
+  color: #ea007e;
+  background-color: #ff65b8;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table td a,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table td .btn {
+  color: #ff8ecb;
+  background-color: transparent;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #990052;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table .old,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table .new {
+  color: #ffb3dc;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table td .active,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table .active div {
+  background-color: #990052;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(255,142,203,0);
+  border-bottom-color: #ff8ecb;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #ff65b8;
+  background-color: #ff289c;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #ff65b8;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #d60073;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
+  border-top-color: #ff289c;
+}
+.p-form-simple-deepPink .bootstrap-datetimepicker-widget.dropdown-menu.bottom:after {
+  border-bottom-color: #990052;
+}
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #990052;
+}
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead .dow {
+  color: #990052;
+}
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #990052;
+}
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(255,142,203,0);
+  border-bottom-color: #ff8ecb;
+}
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #ff51af;
+}
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #ff51af;
+}
+.p-form-simple-deepPink .p-datetime-no-bg .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #ff51af;
+}
+.p-form-simple-deepPink .p-js-link {
+  color: #ff8ecb;
+}
+.p-form-simple-deepPink .p-js-link:hover,
+.p-form-simple-deepPink .p-show-js-block .p-js-link:hover,
+.p-form-simple-deepPink .p-field-toggled .p-js-link:hover,
+.p-form-simple-deepPink .p-js-link:focus,
+.p-form-simple-deepPink .p-show-js-block .p-js-link:focus,
+.p-form-simple-deepPink .p-field-toggled .p-js-link:focus {
+  color: #d60074;
+}
+.p-form-simple-deepPink .p-js-active-link,
+.p-form-simple-deepPink .p-show-js-block .p-js-link,
+.p-form-simple-deepPink .p-field-toggled .p-js-link {
+  color: #ad005d;
+}
+.p-form-simple-deepPink .input-group .realperson-challenge .realperson-regen {
+  color: #ad005d;
+}
+.p-form-simple-deepPink .input-group .realperson-challenge .realperson-regen:hover {
+  color: #ff51af;
+}
+.p-form-simple-deepPink .input-group .realperson-challenge .realperson-text:hover {
+  color: #ad005d;
+}
+.p-form-simple-deepPink .p-slider-block .p-js-value,
+.p-form-simple-deepPink .p-sl-tip {
+  background-color: #ff1493;
+  border-color: #d60074;
+}
+.p-form-simple-deepPink .p-sl-tip:before {
+  border-color: rgba(214,0,116,0);
+}
+.p-form-simple-deepPink .ui-slider:before {
+  border-color: #ff8ecb;
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .ui-slider-handle:after {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .ui-slider-handle .p-sl-icon {
+  color: #ff1493;
+}
+.p-form-simple-deepPink .ui-slider-handle.ui-state-focus:after,
+.p-form-simple-deepPink .ui-slider-handle.ui-state-active:after,
+.p-form-simple-deepPink .ui-slider-handle.ui-state-hover:after {
+  border-color: #d60074;
+}
+.p-form-simple-deepPink .ui-slider-handle.ui-state-focus .p-sl-icon,
+.p-form-simple-deepPink .ui-slider-handle.ui-state-active .p-sl-icon,
+.p-form-simple-deepPink .ui-slider-handle.ui-state-hover .p-sl-icon {
+  background-color: #d60074;
+}
+.p-form-simple-deepPink .ui-slider-horizontal .p-sl-tip:before {
+  border-bottom-color: #d60074;
+}
+.p-form-simple-deepPink .ui-slider-vertical .p-sl-tip:before {
+  border-right-color: #d60074;
+}
+.p-form-simple-deepPink .sl-v-simple .ui-slider:before {
+  background-color: #ff8ecb;
+}
+.p-form-simple-deepPink .sl-v-modern .ui-slider:before,
+.p-form-simple-deepPink .sl-v-bordered .ui-slider:before {
+  border-color: #ad005d;
+}
+.p-form-simple-deepPink .sl-v-top .ui-slider:before {
+  background-color: #ff8ecb;
+}
+.p-form-simple-deepPink .sl-v-flat .ui-slider:before {
+  background-color: #ff8ecb;
+}
+.p-form-simple-deepPink .pt-form-cross-panel .p-check-icon .p-check-block {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .pt-form-cross-panel .p-switch-icon {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .p-rating .p-field-cancel {
+  color: #ff7ac2;
+}
+.p-form-simple-deepPink .p-rating .p-rating-icon {
+  color: #ff7ac2;
+}
+.p-form-simple-deepPink .p-rating .p-rating-active-icon + .p-rating-icon {
+  color: #ff7ac2;
+}
+.p-form-simple-deepPink .p-rating input[type="radio"] ~ label:hover .p-rating-icon,
+.p-form-simple-deepPink .p-rating input[type="radio"] ~ label:hover ~ label .p-rating-icon,
+.p-form-simple-deepPink .p-rating [type="radio"]:checked ~ label .p-rating-icon {
+  color: #fff;
+}
+.p-form-simple-deepPink .p-rating input[type="radio"] ~ label.p-field-cancel:hover {
+  color: #fff;
+}
+.p-form-simple-deepPink .p-rating input[type="radio"] ~ label.p-field-cancel:hover ~ label .p-rating-icon,
+.p-form-simple-deepPink .p-rating .p-rating-cancel:checked ~ label .p-rating-icon,
+.p-form-simple-deepPink .p-rating *:hover [type="radio"] ~ label .p-rating-icon {
+  color: #ff7ac2;
+}
+.p-form-simple-deepPink .p-form-steps:before {
+  background-color: #ff51af;
+}
+.p-form-simple-deepPink .p-form-steps > li.active .p-step:before {
+  background-color: #d60074;
+}
+.p-form-simple-deepPink .p-form-steps > li.active ~ li .p-step-text {
+  background-color: #ff51af;
+}
+.p-form-simple-deepPink .p-step {
+  color: #ff3da6;
+}
+.p-form-simple-deepPink .p-step .p-step-text {
+  background-color: #d60074;
+}
+.p-form-simple-deepPink .nav-tabs {
+  border-color: #ff51af;
+  background-color: #ff51af;
+}
+.p-form-simple-deepPink .nav-tabs > li > label:hover,
+.p-form-simple-deepPink .nav-tabs > li > label:focus {
+  background-color: #d60074;
+}
+.p-form-simple-deepPink .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-deepPink .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-deepPink .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-deepPink .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-deepPink .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-deepPink .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-deepPink .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-deepPink .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-deepPink .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-deepPink .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-deepPink .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-deepPink .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-deepPink .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-deepPink .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-deepPink .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .p-title-line,
+.p-form-simple-deepPink .p-title-step-line,
+.p-form-simple-deepPink .p-title-side {
+  background-color: #ff51af;
+}
+.p-form-simple-deepPink .p-tooltip .p-tooltip-content {
+  background-color: #d60074;
+}
+.p-form-simple-deepPink .p-tooltip .p-tooltip-content:after {
+  border-color: rgba(214,0,116,0);
+  border-top-color: #d60074;
+}
+.p-form-simple-deepPink .p-tooltip.p-tooltip-bottom .p-tooltip-content:after,
+.p-form-simple-deepPink .p-tooltip.p-tooltip-bottom-left .p-tooltip-content:after,
+.p-form-simple-deepPink .p-tooltip.p-tooltip-bottom-right .p-tooltip-content:after {
+  border-top-color: rgba(214,0,116,0);
+  border-bottom-color: #d60074;
+}
+.p-form-simple-deepPink .p-bordered {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .p-shadowed.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-deepPink .p-bordered.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-deepPink .p-inset.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .p-tabs-offset > .nav-tabs > li > label {
+  background-color: #ff3da6;
+}
+.p-form-simple-deepPink .p-tabs-offset > .nav-tabs > li > label:hover,
+.p-form-simple-deepPink .p-tabs-offset > .nav-tabs > li > label:focus {
+  background-color: #ff51af;
+}
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-deepPink .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #ff1493;
+}
+.p-form-simple-deepPink .p-tabs-offset.p-bordered > .nav-tabs {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .p-tabs-offset.p-bordered > .nav-tabs > li > label {
+  border-bottom-color: #ff51af;
+}
+.p-form-simple-deepPink .p-tabs-offset.p-bordered > .nav-tabs + .tab-content {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1):last-child > label,
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2):last-child > label,
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3):last-child > label,
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4):last-child > label,
+.p-form-simple-deepPink .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5):last-child > label {
+  border-right-color: #ff51af;
+}
+.p-form-simple-deepPink .p-alt-back,
+.p-form-simple-deepPink .p-alt-back .p-form-bg {
+  background-color: #ff147b;
+}
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #ff147b;
+}
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-deepPink .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #ff147b;
+}
+.p-form-simple-deepPink .p-alt-back .p-table.table-striped > tbody > tr:nth-of-type(even),
+.p-form-simple-deepPink .p-alt-back .p-table.table-striped > thead {
+  background-color: #ff0572;
+}
+.p-form-simple-deepPink .p-alt-back .panel-fp > .panel-heading {
+  background-color: #ff0572;
+}
+.p-form-simple-deepPink .p-alt-back .panel-fp > .panel-body {
+  background-color: #ff147b;
+}
+.p-form-simple-deepPink .p-alt-back hr.p-flat {
+  border-color: #ff0572;
+}
+.p-form-simple-deepPink .p-alt-back .p-custom-arrow .p-select-arrow {
+  background-color: #ff147b;
+}
+.p-form-simple-deepPink .p-alt-back .p-picture-pick .p-switch-icon,
+.p-form-simple-deepPink .p-alt-back .p-picture-pick .p-check-block {
+  background-color: #ff147b;
+}
+.p-form-simple-deepPink .p-bordered > .nav-tabs {
+  border-color: #ff51af;
+}
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-deepPink .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #ff147b;
+}
+.p-form-simple-deepPink .p-alt-back .pt-form-cross-panel .p-check-icon .p-check-block,
+.p-form-simple-deepPink .p-alt-back .pt-form-cross-panel .p-switch-icon {
+  background-color: #ff147b;
+}

@@ -1,0 +1,614 @@
+/*! Forms Plus: JS.1.5.1 - 2019-05-20 */
+.p-form-simple-darkViolet .panel-fp {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .panel-fp > .panel-heading {
+  background-color: #a200e7;
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .panel-fp > .panel-body {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .progress-bar-fp {
+  background-color: #4c006d;
+}
+.p-form-simple-darkViolet .btn.p-active-btn,
+.p-form-simple-darkViolet .btn:hover,
+.p-form-simple-darkViolet .btn:focus {
+  background-color: #b811ff;
+}
+.p-form-simple-darkViolet .radio label a,
+.p-form-simple-darkViolet .checkbox label a,
+.p-form-simple-darkViolet .p-switch label a,
+.p-form-simple-darkViolet .p-radioswitch label a {
+  color: #4c006d;
+}
+.p-form-simple-darkViolet .p-show-block-heading a {
+  color: #4c006d;
+}
+.p-form-simple-darkViolet .p-check-icon .p-check-middle {
+  color: #c43aff;
+}
+.p-form-simple-darkViolet .p-check-bordered {
+  border-color: #b100fc;
+}
+.p-form-simple-darkViolet .p-check-next:checked ~ .p-check-container .p-check-highlight,
+.p-form-simple-darkViolet :checked ~ .p-check-highlight {
+  background-color: #7b00af;
+}
+.p-form-simple-darkViolet label:hover .p-check-active-icon,
+.p-form-simple-darkViolet .p-check-next ~ .p-check-container:hover .p-check-active-icon,
+.p-form-simple-darkViolet label:hover .p-check-icon .p-check-middle,
+.p-form-simple-darkViolet .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-middle {
+  color: #b811ff;
+}
+.p-form-simple-darkViolet label:hover .p-check-icon .p-check-block,
+.p-form-simple-darkViolet .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-block {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet label:hover .p-switch-icon,
+.p-form-simple-darkViolet .p-check-next ~ .p-check-container:hover .p-switch-icon {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet label:hover .p-check-highlight,
+.p-form-simple-darkViolet .p-check-next ~ .p-check-container:hover .p-check-highlight {
+  background-color: #8600bf;
+}
+.p-form-simple-darkViolet label:hover .p-check-bordered,
+.p-form-simple-darkViolet .p-check-next ~ .p-check-container:hover .p-check-bordered {
+  border-color: #d36dff;
+}
+.p-form-simple-darkViolet .p-picture-pick .p-preview-name {
+  background-color: rgba(0,0,0,0.7);
+}
+.p-form-simple-darkViolet .p-picture-pick :checked ~ .p-preview-name {
+  background-color: rgba(76,0,109,0.7);
+}
+.p-form-simple-darkViolet .p-picture-pick:hover .p-preview-name {
+  background-color: rgba(105,0,150,0.7);
+}
+.p-form-simple-darkViolet .p-show-block:checked + .p-show-block-heading:hover,
+.p-form-simple-darkViolet .p-show-block-heading:hover {
+  color: #b811ff;
+}
+.p-form-simple-darkViolet .p-picture-pick .p-switch-icon,
+.p-form-simple-darkViolet .p-picture-pick .p-check-block {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .p-radio-color .p-color-block {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-form-bg,
+.p-form-simple-darkViolet .p-form {
+  background: #9400d3;
+}
+.p-form-simple-darkViolet .p-colored-text {
+  color: #4c006d;
+}
+.p-form-simple-darkViolet .p-alt-colored-text {
+  color: #b811ff;
+}
+.p-form-simple-darkViolet .p-colored-link {
+  color: #4c006d;
+}
+.p-form-simple-darkViolet .p-colored-link:hover {
+  color: #b811ff;
+}
+.p-form-simple-darkViolet .p-action-link:hover {
+  color: #b811ff;
+}
+.p-form-simple-darkViolet hr {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet hr.p-flat {
+  border-color: #a200e7;
+}
+.p-form-simple-darkViolet .p-table > thead > tr > td,
+.p-form-simple-darkViolet .p-table > tbody > tr > td,
+.p-form-simple-darkViolet .p-table > tfoot > tr > td,
+.p-form-simple-darkViolet .p-table > thead > tr > th,
+.p-form-simple-darkViolet .p-table > tbody > tr > th,
+.p-form-simple-darkViolet .p-table > tfoot > tr > th {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-table.table-striped > thead {
+  background-color: #a200e7;
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-table.table-striped > tbody > tr:nth-of-type(even) {
+  background-color: #a200e7;
+}
+.p-form-simple-darkViolet .p-table.table-bordered {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-table.table-bordered > thead > tr > td,
+.p-form-simple-darkViolet .p-table.table-bordered > tbody > tr > td,
+.p-form-simple-darkViolet .p-table.table-bordered > tfoot > tr > td,
+.p-form-simple-darkViolet .p-table.table-bordered > thead > tr > th,
+.p-form-simple-darkViolet .p-table.table-bordered > tbody > tr > th,
+.p-form-simple-darkViolet .p-table.table-bordered > tfoot > tr > th {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet select.form-control option {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .form-control:focus ~ .input-group-icon,
+.p-form-simple-darkViolet .form-control:hover ~ .input-group-icon,
+.p-form-simple-darkViolet .input-group:hover .input-group-icon,
+.p-form-simple-darkViolet .p-file-wrap [type="file"]:hover ~ .input-group .input-group-icon,
+.p-form-simple-darkViolet .sp-input:focus ~ .input-group-icon,
+.p-form-simple-darkViolet .sp-input:hover ~ .input-group-icon,
+.p-form-simple-darkViolet .form-control:focus ~ .p-select-arrow,
+.p-form-simple-darkViolet .form-control:hover ~ .p-select-arrow,
+.p-form-simple-darkViolet .input-group:hover .p-select-arrow,
+.p-form-simple-darkViolet .p-file-wrap [type="file"]:hover ~ .input-group .p-select-arrow,
+.p-form-simple-darkViolet .sp-input:focus ~ .p-select-arrow,
+.p-form-simple-darkViolet .sp-input:hover ~ .p-select-arrow,
+.p-form-simple-darkViolet .form-control:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-darkViolet .form-control:hover ~ .input-group-addon .p-addon-bg,
+.p-form-simple-darkViolet .input-group:hover .input-group-addon .p-addon-bg,
+.p-form-simple-darkViolet .p-file-wrap [type="file"]:hover ~ .input-group .input-group-addon .p-addon-bg,
+.p-form-simple-darkViolet .sp-input:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-darkViolet .sp-input:hover ~ .input-group-addon .p-addon-bg {
+  border-color: #b811ff;
+  color: #b811ff;
+}
+.p-form-simple-darkViolet .p-custom-arrow .p-select-arrow {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .input-group-btn .btn:hover,
+.p-form-simple-darkViolet .input-group-btn .btn:focus,
+.p-form-simple-darkViolet .p-file-wrap [type="file"]:hover ~ .input-group .input-group-btn .btn {
+  background-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-no-preview {
+  background-color: #b811ff;
+  border-color: #ad00f7;
+}
+.p-form-simple-darkViolet .p-preview-wrap .p-preview-actions .p-preview-action:hover {
+  color: #9400d3;
+}
+.p-form-simple-darkViolet .ui-autocomplete {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .ui-autocomplete .ui-state-focus,
+.p-form-simple-darkViolet .ui-autocomplete .ui-state-active {
+  background-color: rgba(255,255,255,0.1);
+}
+.p-form-simple-darkViolet .sp-container {
+  background-color: #690096;
+}
+.p-form-simple-darkViolet .sp-initial,
+.p-form-simple-darkViolet .sp-clear,
+.p-form-simple-darkViolet .sp-palette .sp-thumb-el {
+  border-color: #9400d3;
+  color: #9400d3;
+}
+.p-form-simple-darkViolet .sp-clear:hover,
+.p-form-simple-darkViolet .sp-palette .sp-thumb-el:hover,
+.p-form-simple-darkViolet .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #3e0059;
+  color: #3e0059;
+}
+.p-form-simple-darkViolet .sp-clear:hover:after,
+.p-form-simple-darkViolet .sp-palette .sp-thumb-el:hover:after,
+.p-form-simple-darkViolet .sp-palette .sp-thumb-el.sp-thumb-active:after {
+  border-color: #f9ebff;
+}
+.p-form-simple-darkViolet .sp-choose,
+.p-form-simple-darkViolet .sp-cancel,
+.p-form-simple-darkViolet .sp-palette-toggle {
+  color: #f9ebff;
+}
+.p-form-simple-darkViolet .sp-choose:hover,
+.p-form-simple-darkViolet .sp-cancel:hover,
+.p-form-simple-darkViolet .sp-palette-toggle:hover,
+.p-form-simple-darkViolet .sp-choose:focus,
+.p-form-simple-darkViolet .sp-cancel:focus,
+.p-form-simple-darkViolet .sp-palette-toggle:focus,
+.p-form-simple-darkViolet .sp-choose:active,
+.p-form-simple-darkViolet .sp-cancel:active,
+.p-form-simple-darkViolet .sp-palette-toggle:active {
+  color: #d36bff;
+}
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-alpha-inner,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-color,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-hue {
+  border-color: #c43aff;
+}
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-initial,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-clear,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el {
+  border-color: #c43aff;
+  color: #c43aff;
+}
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-clear:hover,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el:hover,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #690096;
+  color: #690096;
+}
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-dragger:after,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-alpha-handle:after,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-slider:after {
+  border-color: #d981ff;
+}
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-choose:hover,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-cancel:hover,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-palette-toggle:hover,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-choose:focus,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-cancel:focus,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-palette-toggle:focus,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-choose:active,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-cancel:active,
+.p-form-simple-darkViolet .p-colorpick-no-bg .sp-flat .sp-palette-toggle:active {
+  background-color: #b811ff;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget {
+  background-color: #a200e7;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #c130ff;
+  background-color: #3e0059;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table thead th {
+  background-color: #3e0059;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table td div:hover,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table td span:hover {
+  color: #70a;
+  background-color: #be25ff;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table td a,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table td .btn {
+  color: #ca4eff;
+  background-color: transparent;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #3e0059;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table .old,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table .new {
+  color: #e8b3ff;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table td .active,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table .active div {
+  background-color: #3e0059;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(202,78,255,0);
+  border-bottom-color: #ca4eff;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #be25ff;
+  background-color: #a200e7;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #be25ff;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #690096;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
+  border-top-color: #a200e7;
+}
+.p-form-simple-darkViolet .bootstrap-datetimepicker-widget.dropdown-menu.bottom:after {
+  border-bottom-color: #3e0059;
+}
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #3e0059;
+}
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead .dow {
+  color: #3e0059;
+}
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #3e0059;
+}
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(202,78,255,0);
+  border-bottom-color: #ca4eff;
+}
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #b811ff;
+}
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #b811ff;
+}
+.p-form-simple-darkViolet .p-datetime-no-bg .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-js-link {
+  color: #ca4eff;
+}
+.p-form-simple-darkViolet .p-js-link:hover,
+.p-form-simple-darkViolet .p-show-js-block .p-js-link:hover,
+.p-form-simple-darkViolet .p-field-toggled .p-js-link:hover,
+.p-form-simple-darkViolet .p-js-link:focus,
+.p-form-simple-darkViolet .p-show-js-block .p-js-link:focus,
+.p-form-simple-darkViolet .p-field-toggled .p-js-link:focus {
+  color: #690096;
+}
+.p-form-simple-darkViolet .p-js-active-link,
+.p-form-simple-darkViolet .p-show-js-block .p-js-link,
+.p-form-simple-darkViolet .p-field-toggled .p-js-link {
+  color: #4c006d;
+}
+.p-form-simple-darkViolet .input-group .realperson-challenge .realperson-regen {
+  color: #4c006d;
+}
+.p-form-simple-darkViolet .input-group .realperson-challenge .realperson-regen:hover {
+  color: #b811ff;
+}
+.p-form-simple-darkViolet .input-group .realperson-challenge .realperson-text:hover {
+  color: #4c006d;
+}
+.p-form-simple-darkViolet .p-slider-block .p-js-value,
+.p-form-simple-darkViolet .p-sl-tip {
+  background-color: #9400d3;
+  border-color: #690096;
+}
+.p-form-simple-darkViolet .p-sl-tip:before {
+  border-color: rgba(105,0,150,0);
+}
+.p-form-simple-darkViolet .ui-slider:before {
+  border-color: #ca4eff;
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .ui-slider-handle:after {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .ui-slider-handle .p-sl-icon {
+  color: #9400d3;
+}
+.p-form-simple-darkViolet .ui-slider-handle.ui-state-focus:after,
+.p-form-simple-darkViolet .ui-slider-handle.ui-state-active:after,
+.p-form-simple-darkViolet .ui-slider-handle.ui-state-hover:after {
+  border-color: #690096;
+}
+.p-form-simple-darkViolet .ui-slider-handle.ui-state-focus .p-sl-icon,
+.p-form-simple-darkViolet .ui-slider-handle.ui-state-active .p-sl-icon,
+.p-form-simple-darkViolet .ui-slider-handle.ui-state-hover .p-sl-icon {
+  background-color: #690096;
+}
+.p-form-simple-darkViolet .ui-slider-horizontal .p-sl-tip:before {
+  border-bottom-color: #690096;
+}
+.p-form-simple-darkViolet .ui-slider-vertical .p-sl-tip:before {
+  border-right-color: #690096;
+}
+.p-form-simple-darkViolet .sl-v-simple .ui-slider:before {
+  background-color: #ca4eff;
+}
+.p-form-simple-darkViolet .sl-v-modern .ui-slider:before,
+.p-form-simple-darkViolet .sl-v-bordered .ui-slider:before {
+  border-color: #4c006d;
+}
+.p-form-simple-darkViolet .sl-v-top .ui-slider:before {
+  background-color: #ca4eff;
+}
+.p-form-simple-darkViolet .sl-v-flat .ui-slider:before {
+  background-color: #ca4eff;
+}
+.p-form-simple-darkViolet .pt-form-cross-panel .p-check-icon .p-check-block {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .pt-form-cross-panel .p-switch-icon {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .p-rating .p-field-cancel {
+  color: #c43aff;
+}
+.p-form-simple-darkViolet .p-rating .p-rating-icon {
+  color: #c43aff;
+}
+.p-form-simple-darkViolet .p-rating .p-rating-active-icon + .p-rating-icon {
+  color: #c43aff;
+}
+.p-form-simple-darkViolet .p-rating input[type="radio"] ~ label:hover .p-rating-icon,
+.p-form-simple-darkViolet .p-rating input[type="radio"] ~ label:hover ~ label .p-rating-icon,
+.p-form-simple-darkViolet .p-rating [type="radio"]:checked ~ label .p-rating-icon {
+  color: #fff;
+}
+.p-form-simple-darkViolet .p-rating input[type="radio"] ~ label.p-field-cancel:hover {
+  color: #fff;
+}
+.p-form-simple-darkViolet .p-rating input[type="radio"] ~ label.p-field-cancel:hover ~ label .p-rating-icon,
+.p-form-simple-darkViolet .p-rating .p-rating-cancel:checked ~ label .p-rating-icon,
+.p-form-simple-darkViolet .p-rating *:hover [type="radio"] ~ label .p-rating-icon {
+  color: #c43aff;
+}
+.p-form-simple-darkViolet .p-form-steps:before {
+  background-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-form-steps > li.active .p-step:before {
+  background-color: #690096;
+}
+.p-form-simple-darkViolet .p-form-steps > li.active ~ li .p-step-text {
+  background-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-step {
+  color: #b100fc;
+}
+.p-form-simple-darkViolet .p-step .p-step-text {
+  background-color: #690096;
+}
+.p-form-simple-darkViolet .nav-tabs {
+  border-color: #b811ff;
+  background-color: #b811ff;
+}
+.p-form-simple-darkViolet .nav-tabs > li > label:hover,
+.p-form-simple-darkViolet .nav-tabs > li > label:focus {
+  background-color: #690096;
+}
+.p-form-simple-darkViolet .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-darkViolet .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .p-title-line,
+.p-form-simple-darkViolet .p-title-step-line,
+.p-form-simple-darkViolet .p-title-side {
+  background-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-tooltip .p-tooltip-content {
+  background-color: #690096;
+}
+.p-form-simple-darkViolet .p-tooltip .p-tooltip-content:after {
+  border-color: rgba(105,0,150,0);
+  border-top-color: #690096;
+}
+.p-form-simple-darkViolet .p-tooltip.p-tooltip-bottom .p-tooltip-content:after,
+.p-form-simple-darkViolet .p-tooltip.p-tooltip-bottom-left .p-tooltip-content:after,
+.p-form-simple-darkViolet .p-tooltip.p-tooltip-bottom-right .p-tooltip-content:after {
+  border-top-color: rgba(105,0,150,0);
+  border-bottom-color: #690096;
+}
+.p-form-simple-darkViolet .p-bordered {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-shadowed.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-darkViolet .p-bordered.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-darkViolet .p-inset.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .p-tabs-offset > .nav-tabs > li > label {
+  background-color: #b100fc;
+}
+.p-form-simple-darkViolet .p-tabs-offset > .nav-tabs > li > label:hover,
+.p-form-simple-darkViolet .p-tabs-offset > .nav-tabs > li > label:focus {
+  background-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-darkViolet .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #9400d3;
+}
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered > .nav-tabs {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered > .nav-tabs > li > label {
+  border-bottom-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered > .nav-tabs + .tab-content {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1):last-child > label,
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2):last-child > label,
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3):last-child > label,
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4):last-child > label,
+.p-form-simple-darkViolet .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5):last-child > label {
+  border-right-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-alt-back,
+.p-form-simple-darkViolet .p-alt-back .p-form-bg {
+  background-color: #7500d3;
+}
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #7500d3;
+}
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-darkViolet .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #7500d3;
+}
+.p-form-simple-darkViolet .p-alt-back .p-table.table-striped > tbody > tr:nth-of-type(even),
+.p-form-simple-darkViolet .p-alt-back .p-table.table-striped > thead {
+  background-color: #6d00c4;
+}
+.p-form-simple-darkViolet .p-alt-back .panel-fp > .panel-heading {
+  background-color: #6d00c4;
+}
+.p-form-simple-darkViolet .p-alt-back .panel-fp > .panel-body {
+  background-color: #7500d3;
+}
+.p-form-simple-darkViolet .p-alt-back hr.p-flat {
+  border-color: #6d00c4;
+}
+.p-form-simple-darkViolet .p-alt-back .p-custom-arrow .p-select-arrow {
+  background-color: #7500d3;
+}
+.p-form-simple-darkViolet .p-alt-back .p-picture-pick .p-switch-icon,
+.p-form-simple-darkViolet .p-alt-back .p-picture-pick .p-check-block {
+  background-color: #7500d3;
+}
+.p-form-simple-darkViolet .p-bordered > .nav-tabs {
+  border-color: #b811ff;
+}
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-darkViolet .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #7500d3;
+}
+.p-form-simple-darkViolet .p-alt-back .pt-form-cross-panel .p-check-icon .p-check-block,
+.p-form-simple-darkViolet .p-alt-back .pt-form-cross-panel .p-switch-icon {
+  background-color: #7500d3;
+}

@@ -1,0 +1,4 @@
+{
+    "block"     : "successContentBlock",
+    "content"   : "<div class=\"alert alert-valid\"><strong><i class=\"fa fa-check\"></i> Thank you:</strong> message example.</div>"
+}

@@ -1,0 +1,614 @@
+/*! Forms Plus: JS.1.5.1 - 2019-05-20 */
+.p-form-simple-fireBrick .panel-fp {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .panel-fp > .panel-heading {
+  background-color: #c32525;
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .panel-fp > .panel-body {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .progress-bar-fp {
+  background-color: #5c1212;
+}
+.p-form-simple-fireBrick .btn.p-active-btn,
+.p-form-simple-fireBrick .btn:hover,
+.p-form-simple-fireBrick .btn:focus {
+  background-color: #d93838;
+}
+.p-form-simple-fireBrick .radio label a,
+.p-form-simple-fireBrick .checkbox label a,
+.p-form-simple-fireBrick .p-switch label a,
+.p-form-simple-fireBrick .p-radioswitch label a {
+  color: #5c1212;
+}
+.p-form-simple-fireBrick .p-show-block-heading a {
+  color: #5c1212;
+}
+.p-form-simple-fireBrick .p-check-icon .p-check-middle {
+  color: #e05a5a;
+}
+.p-form-simple-fireBrick .p-check-bordered {
+  border-color: #d42929;
+}
+.p-form-simple-fireBrick .p-check-next:checked ~ .p-check-container .p-check-highlight,
+.p-form-simple-fireBrick :checked ~ .p-check-highlight {
+  background-color: #941c1c;
+}
+.p-form-simple-fireBrick label:hover .p-check-active-icon,
+.p-form-simple-fireBrick .p-check-next ~ .p-check-container:hover .p-check-active-icon,
+.p-form-simple-fireBrick label:hover .p-check-icon .p-check-middle,
+.p-form-simple-fireBrick .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-middle {
+  color: #d93838;
+}
+.p-form-simple-fireBrick label:hover .p-check-icon .p-check-block,
+.p-form-simple-fireBrick .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-block {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick label:hover .p-switch-icon,
+.p-form-simple-fireBrick .p-check-next ~ .p-check-container:hover .p-switch-icon {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick label:hover .p-check-highlight,
+.p-form-simple-fireBrick .p-check-next ~ .p-check-container:hover .p-check-highlight {
+  background-color: #a11f1f;
+}
+.p-form-simple-fireBrick label:hover .p-check-bordered,
+.p-form-simple-fireBrick .p-check-next ~ .p-check-container:hover .p-check-bordered {
+  border-color: #e88585;
+}
+.p-form-simple-fireBrick .p-picture-pick .p-preview-name {
+  background-color: rgba(0,0,0,0.7);
+}
+.p-form-simple-fireBrick .p-picture-pick :checked ~ .p-preview-name {
+  background-color: rgba(92,18,18,0.7);
+}
+.p-form-simple-fireBrick .p-picture-pick:hover .p-preview-name {
+  background-color: rgba(127,24,24,0.7);
+}
+.p-form-simple-fireBrick .p-show-block:checked + .p-show-block-heading:hover,
+.p-form-simple-fireBrick .p-show-block-heading:hover {
+  color: #d93838;
+}
+.p-form-simple-fireBrick .p-picture-pick .p-switch-icon,
+.p-form-simple-fireBrick .p-picture-pick .p-check-block {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .p-radio-color .p-color-block {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .p-form-bg,
+.p-form-simple-fireBrick .p-form {
+  background: #b22222;
+}
+.p-form-simple-fireBrick .p-colored-text {
+  color: #5c1212;
+}
+.p-form-simple-fireBrick .p-alt-colored-text {
+  color: #d93838;
+}
+.p-form-simple-fireBrick .p-colored-link {
+  color: #5c1212;
+}
+.p-form-simple-fireBrick .p-colored-link:hover {
+  color: #d93838;
+}
+.p-form-simple-fireBrick .p-action-link:hover {
+  color: #d93838;
+}
+.p-form-simple-fireBrick hr {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick hr.p-flat {
+  border-color: #c32525;
+}
+.p-form-simple-fireBrick .p-table > thead > tr > td,
+.p-form-simple-fireBrick .p-table > tbody > tr > td,
+.p-form-simple-fireBrick .p-table > tfoot > tr > td,
+.p-form-simple-fireBrick .p-table > thead > tr > th,
+.p-form-simple-fireBrick .p-table > tbody > tr > th,
+.p-form-simple-fireBrick .p-table > tfoot > tr > th {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .p-table.table-striped > thead {
+  background-color: #c32525;
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .p-table.table-striped > tbody > tr:nth-of-type(even) {
+  background-color: #c32525;
+}
+.p-form-simple-fireBrick .p-table.table-bordered {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .p-table.table-bordered > thead > tr > td,
+.p-form-simple-fireBrick .p-table.table-bordered > tbody > tr > td,
+.p-form-simple-fireBrick .p-table.table-bordered > tfoot > tr > td,
+.p-form-simple-fireBrick .p-table.table-bordered > thead > tr > th,
+.p-form-simple-fireBrick .p-table.table-bordered > tbody > tr > th,
+.p-form-simple-fireBrick .p-table.table-bordered > tfoot > tr > th {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick select.form-control option {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .form-control:focus ~ .input-group-icon,
+.p-form-simple-fireBrick .form-control:hover ~ .input-group-icon,
+.p-form-simple-fireBrick .input-group:hover .input-group-icon,
+.p-form-simple-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .input-group-icon,
+.p-form-simple-fireBrick .sp-input:focus ~ .input-group-icon,
+.p-form-simple-fireBrick .sp-input:hover ~ .input-group-icon,
+.p-form-simple-fireBrick .form-control:focus ~ .p-select-arrow,
+.p-form-simple-fireBrick .form-control:hover ~ .p-select-arrow,
+.p-form-simple-fireBrick .input-group:hover .p-select-arrow,
+.p-form-simple-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .p-select-arrow,
+.p-form-simple-fireBrick .sp-input:focus ~ .p-select-arrow,
+.p-form-simple-fireBrick .sp-input:hover ~ .p-select-arrow,
+.p-form-simple-fireBrick .form-control:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-fireBrick .form-control:hover ~ .input-group-addon .p-addon-bg,
+.p-form-simple-fireBrick .input-group:hover .input-group-addon .p-addon-bg,
+.p-form-simple-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .input-group-addon .p-addon-bg,
+.p-form-simple-fireBrick .sp-input:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-fireBrick .sp-input:hover ~ .input-group-addon .p-addon-bg {
+  border-color: #d93838;
+  color: #d93838;
+}
+.p-form-simple-fireBrick .p-custom-arrow .p-select-arrow {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .input-group-btn .btn:hover,
+.p-form-simple-fireBrick .input-group-btn .btn:focus,
+.p-form-simple-fireBrick .p-file-wrap [type="file"]:hover ~ .input-group .input-group-btn .btn {
+  background-color: #d93838;
+}
+.p-form-simple-fireBrick .p-no-preview {
+  background-color: #d93838;
+  border-color: #d02828;
+}
+.p-form-simple-fireBrick .p-preview-wrap .p-preview-actions .p-preview-action:hover {
+  color: #b22222;
+}
+.p-form-simple-fireBrick .ui-autocomplete {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .ui-autocomplete .ui-state-focus,
+.p-form-simple-fireBrick .ui-autocomplete .ui-state-active {
+  background-color: rgba(255,255,255,0.1);
+}
+.p-form-simple-fireBrick .sp-container {
+  background-color: #7f1818;
+}
+.p-form-simple-fireBrick .sp-initial,
+.p-form-simple-fireBrick .sp-clear,
+.p-form-simple-fireBrick .sp-palette .sp-thumb-el {
+  border-color: #b22222;
+  color: #b22222;
+}
+.p-form-simple-fireBrick .sp-clear:hover,
+.p-form-simple-fireBrick .sp-palette .sp-thumb-el:hover,
+.p-form-simple-fireBrick .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #4c0e0e;
+  color: #4c0e0e;
+}
+.p-form-simple-fireBrick .sp-clear:hover:after,
+.p-form-simple-fireBrick .sp-palette .sp-thumb-el:hover:after,
+.p-form-simple-fireBrick .sp-palette .sp-thumb-el.sp-thumb-active:after {
+  border-color: #fceeee;
+}
+.p-form-simple-fireBrick .sp-choose,
+.p-form-simple-fireBrick .sp-cancel,
+.p-form-simple-fireBrick .sp-palette-toggle {
+  color: #fceeee;
+}
+.p-form-simple-fireBrick .sp-choose:hover,
+.p-form-simple-fireBrick .sp-cancel:hover,
+.p-form-simple-fireBrick .sp-palette-toggle:hover,
+.p-form-simple-fireBrick .sp-choose:focus,
+.p-form-simple-fireBrick .sp-cancel:focus,
+.p-form-simple-fireBrick .sp-palette-toggle:focus,
+.p-form-simple-fireBrick .sp-choose:active,
+.p-form-simple-fireBrick .sp-cancel:active,
+.p-form-simple-fireBrick .sp-palette-toggle:active {
+  color: #e78383;
+}
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-alpha-inner,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-color,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-hue {
+  border-color: #e05a5a;
+}
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-initial,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-clear,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el {
+  border-color: #e05a5a;
+  color: #e05a5a;
+}
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-clear:hover,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el:hover,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #7f1818;
+  color: #7f1818;
+}
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-dragger:after,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-alpha-handle:after,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-slider:after {
+  border-color: #eb9696;
+}
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-choose:hover,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-cancel:hover,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette-toggle:hover,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-choose:focus,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-cancel:focus,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette-toggle:focus,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-choose:active,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-cancel:active,
+.p-form-simple-fireBrick .p-colorpick-no-bg .sp-flat .sp-palette-toggle:active {
+  background-color: #d93838;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget {
+  background-color: #c32525;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #de5252;
+  background-color: #4b0e0e;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table thead th {
+  background-color: #4b0e0e;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table td div:hover,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table td span:hover {
+  color: #901b1b;
+  background-color: #dc4949;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table td a,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table td .btn {
+  color: #e36c6c;
+  background-color: transparent;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #4b0e0e;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table .old,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table .new {
+  color: #f3bfbf;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table td .active,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table .active div {
+  background-color: #4b0e0e;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(227,108,108,0);
+  border-bottom-color: #e36c6c;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #dc4949;
+  background-color: #c32525;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #dc4949;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #7f1818;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
+  border-top-color: #c32525;
+}
+.p-form-simple-fireBrick .bootstrap-datetimepicker-widget.dropdown-menu.bottom:after {
+  border-bottom-color: #4b0e0e;
+}
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #4b0e0e;
+}
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead .dow {
+  color: #4b0e0e;
+}
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #4b0e0e;
+}
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(227,108,108,0);
+  border-bottom-color: #e36c6c;
+}
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #d93838;
+}
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #d93838;
+}
+.p-form-simple-fireBrick .p-datetime-no-bg .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #d93838;
+}
+.p-form-simple-fireBrick .p-js-link {
+  color: #e36c6c;
+}
+.p-form-simple-fireBrick .p-js-link:hover,
+.p-form-simple-fireBrick .p-show-js-block .p-js-link:hover,
+.p-form-simple-fireBrick .p-field-toggled .p-js-link:hover,
+.p-form-simple-fireBrick .p-js-link:focus,
+.p-form-simple-fireBrick .p-show-js-block .p-js-link:focus,
+.p-form-simple-fireBrick .p-field-toggled .p-js-link:focus {
+  color: #7f1818;
+}
+.p-form-simple-fireBrick .p-js-active-link,
+.p-form-simple-fireBrick .p-show-js-block .p-js-link,
+.p-form-simple-fireBrick .p-field-toggled .p-js-link {
+  color: #5c1212;
+}
+.p-form-simple-fireBrick .input-group .realperson-challenge .realperson-regen {
+  color: #5c1212;
+}
+.p-form-simple-fireBrick .input-group .realperson-challenge .realperson-regen:hover {
+  color: #d93838;
+}
+.p-form-simple-fireBrick .input-group .realperson-challenge .realperson-text:hover {
+  color: #5c1212;
+}
+.p-form-simple-fireBrick .p-slider-block .p-js-value,
+.p-form-simple-fireBrick .p-sl-tip {
+  background-color: #b22222;
+  border-color: #7f1818;
+}
+.p-form-simple-fireBrick .p-sl-tip:before {
+  border-color: rgba(127,24,24,0);
+}
+.p-form-simple-fireBrick .ui-slider:before {
+  border-color: #e36c6c;
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .ui-slider-handle:after {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .ui-slider-handle .p-sl-icon {
+  color: #b22222;
+}
+.p-form-simple-fireBrick .ui-slider-handle.ui-state-focus:after,
+.p-form-simple-fireBrick .ui-slider-handle.ui-state-active:after,
+.p-form-simple-fireBrick .ui-slider-handle.ui-state-hover:after {
+  border-color: #7f1818;
+}
+.p-form-simple-fireBrick .ui-slider-handle.ui-state-focus .p-sl-icon,
+.p-form-simple-fireBrick .ui-slider-handle.ui-state-active .p-sl-icon,
+.p-form-simple-fireBrick .ui-slider-handle.ui-state-hover .p-sl-icon {
+  background-color: #7f1818;
+}
+.p-form-simple-fireBrick .ui-slider-horizontal .p-sl-tip:before {
+  border-bottom-color: #7f1818;
+}
+.p-form-simple-fireBrick .ui-slider-vertical .p-sl-tip:before {
+  border-right-color: #7f1818;
+}
+.p-form-simple-fireBrick .sl-v-simple .ui-slider:before {
+  background-color: #e36c6c;
+}
+.p-form-simple-fireBrick .sl-v-modern .ui-slider:before,
+.p-form-simple-fireBrick .sl-v-bordered .ui-slider:before {
+  border-color: #5c1212;
+}
+.p-form-simple-fireBrick .sl-v-top .ui-slider:before {
+  background-color: #e36c6c;
+}
+.p-form-simple-fireBrick .sl-v-flat .ui-slider:before {
+  background-color: #e36c6c;
+}
+.p-form-simple-fireBrick .pt-form-cross-panel .p-check-icon .p-check-block {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .pt-form-cross-panel .p-switch-icon {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .p-rating .p-field-cancel {
+  color: #e05a5a;
+}
+.p-form-simple-fireBrick .p-rating .p-rating-icon {
+  color: #e05a5a;
+}
+.p-form-simple-fireBrick .p-rating .p-rating-active-icon + .p-rating-icon {
+  color: #e05a5a;
+}
+.p-form-simple-fireBrick .p-rating input[type="radio"] ~ label:hover .p-rating-icon,
+.p-form-simple-fireBrick .p-rating input[type="radio"] ~ label:hover ~ label .p-rating-icon,
+.p-form-simple-fireBrick .p-rating [type="radio"]:checked ~ label .p-rating-icon {
+  color: #fff;
+}
+.p-form-simple-fireBrick .p-rating input[type="radio"] ~ label.p-field-cancel:hover {
+  color: #fff;
+}
+.p-form-simple-fireBrick .p-rating input[type="radio"] ~ label.p-field-cancel:hover ~ label .p-rating-icon,
+.p-form-simple-fireBrick .p-rating .p-rating-cancel:checked ~ label .p-rating-icon,
+.p-form-simple-fireBrick .p-rating *:hover [type="radio"] ~ label .p-rating-icon {
+  color: #e05a5a;
+}
+.p-form-simple-fireBrick .p-form-steps:before {
+  background-color: #d93838;
+}
+.p-form-simple-fireBrick .p-form-steps > li.active .p-step:before {
+  background-color: #7f1818;
+}
+.p-form-simple-fireBrick .p-form-steps > li.active ~ li .p-step-text {
+  background-color: #d93838;
+}
+.p-form-simple-fireBrick .p-step {
+  color: #d42929;
+}
+.p-form-simple-fireBrick .p-step .p-step-text {
+  background-color: #7f1818;
+}
+.p-form-simple-fireBrick .nav-tabs {
+  border-color: #d93838;
+  background-color: #d93838;
+}
+.p-form-simple-fireBrick .nav-tabs > li > label:hover,
+.p-form-simple-fireBrick .nav-tabs > li > label:focus {
+  background-color: #7f1818;
+}
+.p-form-simple-fireBrick .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-fireBrick .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .p-title-line,
+.p-form-simple-fireBrick .p-title-step-line,
+.p-form-simple-fireBrick .p-title-side {
+  background-color: #d93838;
+}
+.p-form-simple-fireBrick .p-tooltip .p-tooltip-content {
+  background-color: #7f1818;
+}
+.p-form-simple-fireBrick .p-tooltip .p-tooltip-content:after {
+  border-color: rgba(127,24,24,0);
+  border-top-color: #7f1818;
+}
+.p-form-simple-fireBrick .p-tooltip.p-tooltip-bottom .p-tooltip-content:after,
+.p-form-simple-fireBrick .p-tooltip.p-tooltip-bottom-left .p-tooltip-content:after,
+.p-form-simple-fireBrick .p-tooltip.p-tooltip-bottom-right .p-tooltip-content:after {
+  border-top-color: rgba(127,24,24,0);
+  border-bottom-color: #7f1818;
+}
+.p-form-simple-fireBrick .p-bordered {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .p-shadowed.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-fireBrick .p-bordered.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-fireBrick .p-inset.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .p-tabs-offset > .nav-tabs > li > label {
+  background-color: #d42929;
+}
+.p-form-simple-fireBrick .p-tabs-offset > .nav-tabs > li > label:hover,
+.p-form-simple-fireBrick .p-tabs-offset > .nav-tabs > li > label:focus {
+  background-color: #d93838;
+}
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-fireBrick .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #b22222;
+}
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered > .nav-tabs {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered > .nav-tabs > li > label {
+  border-bottom-color: #d93838;
+}
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered > .nav-tabs + .tab-content {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1):last-child > label,
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2):last-child > label,
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3):last-child > label,
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4):last-child > label,
+.p-form-simple-fireBrick .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5):last-child > label {
+  border-right-color: #d93838;
+}
+.p-form-simple-fireBrick .p-alt-back,
+.p-form-simple-fireBrick .p-alt-back .p-form-bg {
+  background-color: #b23f22;
+}
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #b23f22;
+}
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-fireBrick .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #b23f22;
+}
+.p-form-simple-fireBrick .p-alt-back .p-table.table-striped > tbody > tr:nth-of-type(even),
+.p-form-simple-fireBrick .p-alt-back .p-table.table-striped > thead {
+  background-color: #a53a20;
+}
+.p-form-simple-fireBrick .p-alt-back .panel-fp > .panel-heading {
+  background-color: #a53a20;
+}
+.p-form-simple-fireBrick .p-alt-back .panel-fp > .panel-body {
+  background-color: #b23f22;
+}
+.p-form-simple-fireBrick .p-alt-back hr.p-flat {
+  border-color: #a53a20;
+}
+.p-form-simple-fireBrick .p-alt-back .p-custom-arrow .p-select-arrow {
+  background-color: #b23f22;
+}
+.p-form-simple-fireBrick .p-alt-back .p-picture-pick .p-switch-icon,
+.p-form-simple-fireBrick .p-alt-back .p-picture-pick .p-check-block {
+  background-color: #b23f22;
+}
+.p-form-simple-fireBrick .p-bordered > .nav-tabs {
+  border-color: #d93838;
+}
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-fireBrick .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #b23f22;
+}
+.p-form-simple-fireBrick .p-alt-back .pt-form-cross-panel .p-check-icon .p-check-block,
+.p-form-simple-fireBrick .p-alt-back .pt-form-cross-panel .p-switch-icon {
+  background-color: #b23f22;
+}

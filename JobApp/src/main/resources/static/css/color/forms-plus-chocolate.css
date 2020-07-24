@@ -1,0 +1,614 @@
+/*! Forms Plus: JS.1.5.1 - 2019-05-20 */
+.p-form-simple-chocolate .panel-fp {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .panel-fp > .panel-heading {
+  background-color: #e07325;
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .panel-fp > .panel-body {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .progress-bar-fp {
+  background-color: #793c11;
+}
+.p-form-simple-chocolate .btn.p-active-btn,
+.p-form-simple-chocolate .btn:hover,
+.p-form-simple-chocolate .btn:focus {
+  background-color: #e58a48;
+}
+.p-form-simple-chocolate .radio label a,
+.p-form-simple-chocolate .checkbox label a,
+.p-form-simple-chocolate .p-switch label a,
+.p-form-simple-chocolate .p-radioswitch label a {
+  color: #793c11;
+}
+.p-form-simple-chocolate .p-show-block-heading a {
+  color: #793c11;
+}
+.p-form-simple-chocolate .p-check-icon .p-check-middle {
+  color: #eaa16c;
+}
+.p-form-simple-chocolate .p-check-bordered {
+  border-color: #e27e36;
+}
+.p-form-simple-chocolate .p-check-next:checked ~ .p-check-container .p-check-highlight,
+.p-form-simple-chocolate :checked ~ .p-check-highlight {
+  background-color: #b3591a;
+}
+.p-form-simple-chocolate label:hover .p-check-active-icon,
+.p-form-simple-chocolate .p-check-next ~ .p-check-container:hover .p-check-active-icon,
+.p-form-simple-chocolate label:hover .p-check-icon .p-check-middle,
+.p-form-simple-chocolate .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-middle {
+  color: #e58a48;
+}
+.p-form-simple-chocolate label:hover .p-check-icon .p-check-block,
+.p-form-simple-chocolate .p-check-next ~ .p-check-container:hover .p-check-icon .p-check-block {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate label:hover .p-switch-icon,
+.p-form-simple-chocolate .p-check-next ~ .p-check-container:hover .p-switch-icon {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate label:hover .p-check-highlight,
+.p-form-simple-chocolate .p-check-next ~ .p-check-container:hover .p-check-highlight {
+  background-color: #c0601b;
+}
+.p-form-simple-chocolate label:hover .p-check-bordered,
+.p-form-simple-chocolate .p-check-next ~ .p-check-container:hover .p-check-bordered {
+  border-color: #f0bd99;
+}
+.p-form-simple-chocolate .p-picture-pick .p-preview-name {
+  background-color: rgba(0,0,0,0.7);
+}
+.p-form-simple-chocolate .p-picture-pick :checked ~ .p-preview-name {
+  background-color: rgba(121,60,17,0.7);
+}
+.p-form-simple-chocolate .p-picture-pick:hover .p-preview-name {
+  background-color: rgba(156,78,22,0.7);
+}
+.p-form-simple-chocolate .p-show-block:checked + .p-show-block-heading:hover,
+.p-form-simple-chocolate .p-show-block-heading:hover {
+  color: #e58a48;
+}
+.p-form-simple-chocolate .p-picture-pick .p-switch-icon,
+.p-form-simple-chocolate .p-picture-pick .p-check-block {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .p-radio-color .p-color-block {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .p-form-bg,
+.p-form-simple-chocolate .p-form {
+  background: #d2691e;
+}
+.p-form-simple-chocolate .p-colored-text {
+  color: #793c11;
+}
+.p-form-simple-chocolate .p-alt-colored-text {
+  color: #e58a48;
+}
+.p-form-simple-chocolate .p-colored-link {
+  color: #793c11;
+}
+.p-form-simple-chocolate .p-colored-link:hover {
+  color: #e58a48;
+}
+.p-form-simple-chocolate .p-action-link:hover {
+  color: #e58a48;
+}
+.p-form-simple-chocolate hr {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate hr.p-flat {
+  border-color: #e07325;
+}
+.p-form-simple-chocolate .p-table > thead > tr > td,
+.p-form-simple-chocolate .p-table > tbody > tr > td,
+.p-form-simple-chocolate .p-table > tfoot > tr > td,
+.p-form-simple-chocolate .p-table > thead > tr > th,
+.p-form-simple-chocolate .p-table > tbody > tr > th,
+.p-form-simple-chocolate .p-table > tfoot > tr > th {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .p-table.table-striped > thead {
+  background-color: #e07325;
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .p-table.table-striped > tbody > tr:nth-of-type(even) {
+  background-color: #e07325;
+}
+.p-form-simple-chocolate .p-table.table-bordered {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .p-table.table-bordered > thead > tr > td,
+.p-form-simple-chocolate .p-table.table-bordered > tbody > tr > td,
+.p-form-simple-chocolate .p-table.table-bordered > tfoot > tr > td,
+.p-form-simple-chocolate .p-table.table-bordered > thead > tr > th,
+.p-form-simple-chocolate .p-table.table-bordered > tbody > tr > th,
+.p-form-simple-chocolate .p-table.table-bordered > tfoot > tr > th {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate select.form-control option {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .form-control:focus ~ .input-group-icon,
+.p-form-simple-chocolate .form-control:hover ~ .input-group-icon,
+.p-form-simple-chocolate .input-group:hover .input-group-icon,
+.p-form-simple-chocolate .p-file-wrap [type="file"]:hover ~ .input-group .input-group-icon,
+.p-form-simple-chocolate .sp-input:focus ~ .input-group-icon,
+.p-form-simple-chocolate .sp-input:hover ~ .input-group-icon,
+.p-form-simple-chocolate .form-control:focus ~ .p-select-arrow,
+.p-form-simple-chocolate .form-control:hover ~ .p-select-arrow,
+.p-form-simple-chocolate .input-group:hover .p-select-arrow,
+.p-form-simple-chocolate .p-file-wrap [type="file"]:hover ~ .input-group .p-select-arrow,
+.p-form-simple-chocolate .sp-input:focus ~ .p-select-arrow,
+.p-form-simple-chocolate .sp-input:hover ~ .p-select-arrow,
+.p-form-simple-chocolate .form-control:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-chocolate .form-control:hover ~ .input-group-addon .p-addon-bg,
+.p-form-simple-chocolate .input-group:hover .input-group-addon .p-addon-bg,
+.p-form-simple-chocolate .p-file-wrap [type="file"]:hover ~ .input-group .input-group-addon .p-addon-bg,
+.p-form-simple-chocolate .sp-input:focus ~ .input-group-addon .p-addon-bg,
+.p-form-simple-chocolate .sp-input:hover ~ .input-group-addon .p-addon-bg {
+  border-color: #e58a48;
+  color: #e58a48;
+}
+.p-form-simple-chocolate .p-custom-arrow .p-select-arrow {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .input-group-btn .btn:hover,
+.p-form-simple-chocolate .input-group-btn .btn:focus,
+.p-form-simple-chocolate .p-file-wrap [type="file"]:hover ~ .input-group .input-group-btn .btn {
+  background-color: #e58a48;
+}
+.p-form-simple-chocolate .p-no-preview {
+  background-color: #e58a48;
+  border-color: #e27c32;
+}
+.p-form-simple-chocolate .p-preview-wrap .p-preview-actions .p-preview-action:hover {
+  color: #d2691e;
+}
+.p-form-simple-chocolate .ui-autocomplete {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .ui-autocomplete .ui-state-focus,
+.p-form-simple-chocolate .ui-autocomplete .ui-state-active {
+  background-color: rgba(255,255,255,0.1);
+}
+.p-form-simple-chocolate .sp-container {
+  background-color: #9c4e16;
+}
+.p-form-simple-chocolate .sp-initial,
+.p-form-simple-chocolate .sp-clear,
+.p-form-simple-chocolate .sp-palette .sp-thumb-el {
+  border-color: #d2691e;
+  color: #d2691e;
+}
+.p-form-simple-chocolate .sp-clear:hover,
+.p-form-simple-chocolate .sp-palette .sp-thumb-el:hover,
+.p-form-simple-chocolate .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #66330e;
+  color: #66330e;
+}
+.p-form-simple-chocolate .sp-clear:hover:after,
+.p-form-simple-chocolate .sp-palette .sp-thumb-el:hover:after,
+.p-form-simple-chocolate .sp-palette .sp-thumb-el.sp-thumb-active:after {
+  border-color: #fcf4ed;
+}
+.p-form-simple-chocolate .sp-choose,
+.p-form-simple-chocolate .sp-cancel,
+.p-form-simple-chocolate .sp-palette-toggle {
+  color: #fcf4ed;
+}
+.p-form-simple-chocolate .sp-choose:hover,
+.p-form-simple-chocolate .sp-cancel:hover,
+.p-form-simple-chocolate .sp-palette-toggle:hover,
+.p-form-simple-chocolate .sp-choose:focus,
+.p-form-simple-chocolate .sp-cancel:focus,
+.p-form-simple-chocolate .sp-palette-toggle:focus,
+.p-form-simple-chocolate .sp-choose:active,
+.p-form-simple-chocolate .sp-cancel:active,
+.p-form-simple-chocolate .sp-palette-toggle:active {
+  color: #edac7d;
+}
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-alpha-inner,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-color,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-hue {
+  border-color: #eaa16c;
+}
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-initial,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-clear,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el {
+  border-color: #eaa16c;
+  color: #eaa16c;
+}
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-clear:hover,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el:hover,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-palette .sp-thumb-el.sp-thumb-active {
+  border-color: #9c4e16;
+  color: #9c4e16;
+}
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-dragger:after,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-alpha-handle:after,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-slider:after {
+  border-color: #f3c9aa;
+}
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-choose:hover,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-cancel:hover,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-palette-toggle:hover,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-choose:focus,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-cancel:focus,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-palette-toggle:focus,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-choose:active,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-cancel:active,
+.p-form-simple-chocolate .p-colorpick-no-bg .sp-flat .sp-palette-toggle:active {
+  background-color: #e58a48;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget {
+  background-color: #e07325;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #e99b63;
+  background-color: #67330f;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table thead th {
+  background-color: #67330f;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table td div:hover,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table td span:hover {
+  color: #af5719;
+  background-color: #e8955b;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table td a,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table td .btn {
+  color: #edac7e;
+  background-color: transparent;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #67330f;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table .old,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table .new {
+  color: #f5d4bc;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table td .active,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table .active div {
+  background-color: #67330f;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(237,172,126,0);
+  border-bottom-color: #edac7e;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #e8955b;
+  background-color: #e07325;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #e8955b;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #9c4d17;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
+  border-top-color: #e07325;
+}
+.p-form-simple-chocolate .bootstrap-datetimepicker-widget.dropdown-menu.bottom:after {
+  border-bottom-color: #67330f;
+}
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+  color: #67330f;
+}
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table thead .dow {
+  color: #67330f;
+}
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a:hover,
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn:hover,
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table td a span:hover,
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table td .btn span:hover {
+  color: #67330f;
+}
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table .today div:before {
+  border-color: rgba(237,172,126,0);
+  border-bottom-color: #edac7e;
+}
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled,
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div,
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table span.disabled:hover,
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled div:hover {
+  color: #e58a48;
+}
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span,
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget table .disabled span:hover {
+  color: #e58a48;
+}
+.p-form-simple-chocolate .p-datetime-no-bg .bootstrap-datetimepicker-widget .datepicker-days thead .picker-switch {
+  border-bottom-color: #e58a48;
+}
+.p-form-simple-chocolate .p-js-link {
+  color: #edac7e;
+}
+.p-form-simple-chocolate .p-js-link:hover,
+.p-form-simple-chocolate .p-show-js-block .p-js-link:hover,
+.p-form-simple-chocolate .p-field-toggled .p-js-link:hover,
+.p-form-simple-chocolate .p-js-link:focus,
+.p-form-simple-chocolate .p-show-js-block .p-js-link:focus,
+.p-form-simple-chocolate .p-field-toggled .p-js-link:focus {
+  color: #9c4e16;
+}
+.p-form-simple-chocolate .p-js-active-link,
+.p-form-simple-chocolate .p-show-js-block .p-js-link,
+.p-form-simple-chocolate .p-field-toggled .p-js-link {
+  color: #793c11;
+}
+.p-form-simple-chocolate .input-group .realperson-challenge .realperson-regen {
+  color: #793c11;
+}
+.p-form-simple-chocolate .input-group .realperson-challenge .realperson-regen:hover {
+  color: #e58a48;
+}
+.p-form-simple-chocolate .input-group .realperson-challenge .realperson-text:hover {
+  color: #793c11;
+}
+.p-form-simple-chocolate .p-slider-block .p-js-value,
+.p-form-simple-chocolate .p-sl-tip {
+  background-color: #d2691e;
+  border-color: #9c4e16;
+}
+.p-form-simple-chocolate .p-sl-tip:before {
+  border-color: rgba(156,78,22,0);
+}
+.p-form-simple-chocolate .ui-slider:before {
+  border-color: #edac7e;
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .ui-slider-handle:after {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .ui-slider-handle .p-sl-icon {
+  color: #d2691e;
+}
+.p-form-simple-chocolate .ui-slider-handle.ui-state-focus:after,
+.p-form-simple-chocolate .ui-slider-handle.ui-state-active:after,
+.p-form-simple-chocolate .ui-slider-handle.ui-state-hover:after {
+  border-color: #9c4e16;
+}
+.p-form-simple-chocolate .ui-slider-handle.ui-state-focus .p-sl-icon,
+.p-form-simple-chocolate .ui-slider-handle.ui-state-active .p-sl-icon,
+.p-form-simple-chocolate .ui-slider-handle.ui-state-hover .p-sl-icon {
+  background-color: #9c4e16;
+}
+.p-form-simple-chocolate .ui-slider-horizontal .p-sl-tip:before {
+  border-bottom-color: #9c4e16;
+}
+.p-form-simple-chocolate .ui-slider-vertical .p-sl-tip:before {
+  border-right-color: #9c4e16;
+}
+.p-form-simple-chocolate .sl-v-simple .ui-slider:before {
+  background-color: #edac7e;
+}
+.p-form-simple-chocolate .sl-v-modern .ui-slider:before,
+.p-form-simple-chocolate .sl-v-bordered .ui-slider:before {
+  border-color: #793c11;
+}
+.p-form-simple-chocolate .sl-v-top .ui-slider:before {
+  background-color: #edac7e;
+}
+.p-form-simple-chocolate .sl-v-flat .ui-slider:before {
+  background-color: #edac7e;
+}
+.p-form-simple-chocolate .pt-form-cross-panel .p-check-icon .p-check-block {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .pt-form-cross-panel .p-switch-icon {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .p-rating .p-field-cancel {
+  color: #eaa16c;
+}
+.p-form-simple-chocolate .p-rating .p-rating-icon {
+  color: #eaa16c;
+}
+.p-form-simple-chocolate .p-rating .p-rating-active-icon + .p-rating-icon {
+  color: #eaa16c;
+}
+.p-form-simple-chocolate .p-rating input[type="radio"] ~ label:hover .p-rating-icon,
+.p-form-simple-chocolate .p-rating input[type="radio"] ~ label:hover ~ label .p-rating-icon,
+.p-form-simple-chocolate .p-rating [type="radio"]:checked ~ label .p-rating-icon {
+  color: #fff;
+}
+.p-form-simple-chocolate .p-rating input[type="radio"] ~ label.p-field-cancel:hover {
+  color: #fff;
+}
+.p-form-simple-chocolate .p-rating input[type="radio"] ~ label.p-field-cancel:hover ~ label .p-rating-icon,
+.p-form-simple-chocolate .p-rating .p-rating-cancel:checked ~ label .p-rating-icon,
+.p-form-simple-chocolate .p-rating *:hover [type="radio"] ~ label .p-rating-icon {
+  color: #eaa16c;
+}
+.p-form-simple-chocolate .p-form-steps:before {
+  background-color: #e58a48;
+}
+.p-form-simple-chocolate .p-form-steps > li.active .p-step:before {
+  background-color: #9c4e16;
+}
+.p-form-simple-chocolate .p-form-steps > li.active ~ li .p-step-text {
+  background-color: #e58a48;
+}
+.p-form-simple-chocolate .p-step {
+  color: #e27e36;
+}
+.p-form-simple-chocolate .p-step .p-step-text {
+  background-color: #9c4e16;
+}
+.p-form-simple-chocolate .nav-tabs {
+  border-color: #e58a48;
+  background-color: #e58a48;
+}
+.p-form-simple-chocolate .nav-tabs > li > label:hover,
+.p-form-simple-chocolate .nav-tabs > li > label:focus {
+  background-color: #9c4e16;
+}
+.p-form-simple-chocolate .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-chocolate .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-chocolate .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-chocolate .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-chocolate .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-chocolate .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-chocolate .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-chocolate .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-chocolate .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-chocolate .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-chocolate .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-chocolate .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-chocolate .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-chocolate .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-chocolate .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .p-title-line,
+.p-form-simple-chocolate .p-title-step-line,
+.p-form-simple-chocolate .p-title-side {
+  background-color: #e58a48;
+}
+.p-form-simple-chocolate .p-tooltip .p-tooltip-content {
+  background-color: #9c4e16;
+}
+.p-form-simple-chocolate .p-tooltip .p-tooltip-content:after {
+  border-color: rgba(156,78,22,0);
+  border-top-color: #9c4e16;
+}
+.p-form-simple-chocolate .p-tooltip.p-tooltip-bottom .p-tooltip-content:after,
+.p-form-simple-chocolate .p-tooltip.p-tooltip-bottom-left .p-tooltip-content:after,
+.p-form-simple-chocolate .p-tooltip.p-tooltip-bottom-right .p-tooltip-content:after {
+  border-top-color: rgba(156,78,22,0);
+  border-bottom-color: #9c4e16;
+}
+.p-form-simple-chocolate .p-bordered {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .p-shadowed.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-chocolate .p-bordered.p-tabs-offset > .nav-tabs + .tab-content,
+.p-form-simple-chocolate .p-inset.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .p-tabs-offset > .nav-tabs > li > label {
+  background-color: #e27e36;
+}
+.p-form-simple-chocolate .p-tabs-offset > .nav-tabs > li > label:hover,
+.p-form-simple-chocolate .p-tabs-offset > .nav-tabs > li > label:focus {
+  background-color: #e58a48;
+}
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-chocolate .p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #d2691e;
+}
+.p-form-simple-chocolate .p-tabs-offset.p-bordered > .nav-tabs {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .p-tabs-offset.p-bordered > .nav-tabs > li > label {
+  border-bottom-color: #e58a48;
+}
+.p-form-simple-chocolate .p-tabs-offset.p-bordered > .nav-tabs + .tab-content {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1):last-child > label,
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2):last-child > label,
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3):last-child > label,
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4):last-child > label,
+.p-form-simple-chocolate .p-tabs-offset.p-bordered .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5):last-child > label {
+  border-right-color: #e58a48;
+}
+.p-form-simple-chocolate .p-alt-back,
+.p-form-simple-chocolate .p-alt-back .p-form-bg {
+  background-color: #d2571e;
+}
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset > .nav-tabs + .tab-content {
+  background-color: #d2571e;
+}
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-chocolate .p-alt-back.p-tabs-offset .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #d2571e;
+}
+.p-form-simple-chocolate .p-alt-back .p-table.table-striped > tbody > tr:nth-of-type(even),
+.p-form-simple-chocolate .p-alt-back .p-table.table-striped > thead {
+  background-color: #c5511c;
+}
+.p-form-simple-chocolate .p-alt-back .panel-fp > .panel-heading {
+  background-color: #c5511c;
+}
+.p-form-simple-chocolate .p-alt-back .panel-fp > .panel-body {
+  background-color: #d2571e;
+}
+.p-form-simple-chocolate .p-alt-back hr.p-flat {
+  border-color: #c5511c;
+}
+.p-form-simple-chocolate .p-alt-back .p-custom-arrow .p-select-arrow {
+  background-color: #d2571e;
+}
+.p-form-simple-chocolate .p-alt-back .p-picture-pick .p-switch-icon,
+.p-form-simple-chocolate .p-alt-back .p-picture-pick .p-check-block {
+  background-color: #d2571e;
+}
+.p-form-simple-chocolate .p-bordered > .nav-tabs {
+  border-color: #e58a48;
+}
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:hover,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:hover,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:hover,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:hover,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:hover,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(1):checked ~ .nav-tabs > li:nth-child(1) > label:focus,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(2):checked ~ .nav-tabs > li:nth-child(2) > label:focus,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(3):checked ~ .nav-tabs > li:nth-child(3) > label:focus,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(4):checked ~ .nav-tabs > li:nth-child(4) > label:focus,
+.p-form-simple-chocolate .p-alt-back .p-tab-sel:nth-child(5):checked ~ .nav-tabs > li:nth-child(5) > label:focus {
+  background-color: #d2571e;
+}
+.p-form-simple-chocolate .p-alt-back .pt-form-cross-panel .p-check-icon .p-check-block,
+.p-form-simple-chocolate .p-alt-back .pt-form-cross-panel .p-switch-icon {
+  background-color: #d2571e;
+}

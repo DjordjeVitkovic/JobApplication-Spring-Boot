@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Forms Plus: JS</title>
+        <link href="https://fonts.googleapis.com/css?family=Roboto&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext" rel="stylesheet">
+        <link href="./font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+        <link href="./bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
+        <!-- colorpicker: Spectrum plugin -->
+        <link href="./js/spectrum/spectrum.css" rel="stylesheet" type="text/css">
+        <!-- Bootstrap datetimepicker -->
+        <link href="./js/bootstrap-datetimepicker/css/bootstrap-datetimepicker.css" rel="stylesheet" type="text/css">
+        <link href="./js/jquery-ui/css/core.css" rel="stylesheet" type="text/css">
+        <!-- Slider -->
+        <link href="./js/jquery-ui/css/slider.css" rel="stylesheet" type="text/css">
+        <!-- Autocomplete -->
+        <link href="./js/jquery-ui/css/menu.css" rel="stylesheet" type="text/css">
+        <link href="./js/jquery-ui/css/autocomplete.css" rel="stylesheet" type="text/css">
+        <link href="./css/forms-plus.css" rel="stylesheet" type="text/css">
+        <!-- Color style: remove or change to change coloring -->
+        <link href="./css/color/forms-plus-cadetBlue.css" rel="stylesheet" type="text/css">
+        <!-- Custom styles for background (<1-6>.jpg), remove if not needed -->
+        <link href="./css/custom-styles.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div class="container" style="margin-top: 150px;">
+            <!-- Start: simple skin - Order service -->
+            <form method="post" class="simple-p-form p-form-simple-cadetBlue" th:object="${job}" th:action="@{/saveJob}" data-js-validate="true" data-js-highlight-state-msg="true" data-js-show-valid-msg="true">
+                <div class="p-form p-shadowed p-form-sm">
+                    <!-- Start: title -->
+                    <div class="p-title text-left">
+                        <span class="p-title-line">Apply For A Job&nbsp;&nbsp;<i class="fa fa-pencil-square-o"></i></span>
+                    </div>
+                    <!-- End: title -->
+                    <!-- Start: subtitle -->
+                    <div class="p-subtitle">Job Details</div>
+                    <!-- End: subtitle -->
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <!-- Start: name <input:text> -->
+                            <div class="form-group">
+                                <label for="name" class="p-label-required">Position</label>
+                                <div class="input-group  p-has-icon">
+                                    <input type="text" id="name" name="name" th:field="*{position}"  placeholder="Name" required="required" class="form-control" />
+                                    <span class="input-group-state">
+                                        <span class="p-position">
+                                            <span class="p-text">
+                                                <span class="p-required-text"><i class="fa fa-star"></i></span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                    <span class="p-field-cb"></span>
+                                    <span class="input-group-icon"><i class="fa fa-user"></i></span>
+                                </div>
+                            </div>
+                            <!-- End: name <input:text> -->
+                        </div>
+                        <div class="col-sm-6">
+                            <!-- Start: company <input:text> -->
+                            <div class="form-group">
+                                <label for="company" class="p-label-required">Company</label>
+                                <div class="input-group  p-has-icon">
+                                    <input type="text" id="company" name="company" th:field="*{companyName}" placeholder="Company" class="form-control" />
+                                    <span class="input-group-state">
+                                        <span class="p-position">
+                                            <span class="p-text">
+                                                <span class="p-valid-text"><i class="fa fa-check"></i></span>
+                                                <span class="p-error-text"><i class="fa fa-times"></i></span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                    <span class="p-field-cb"></span>
+                                    <span class="input-group-icon"><i class="fa fa-briefcase"></i></span>
+                                </div>
+                            </div>
+                            <!-- End: company <input:text> -->
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <!-- Start: email <input:email> -->
+                            <div class="form-group">
+                                <label for="email" class="p-label-required">Company Website</label>
+                                <div class="input-group  p-has-icon">
+                                    <input type="text" id="email" name="link" th:field="*{companyLink}" placeholder="Company website" required="required" class="form-control" />
+                                    <span class="input-group-state">
+                                        <span class="p-position">
+                                            <span class="p-text">
+                                                <span class="p-required-text"><i class="fa fa-star"></i></span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                    <span class="p-field-cb"></span>
+                                    <span class="input-group-icon"><i class="fa fa-envelope-o"></i></span>
+                                </div>
+                            </div>
+                            <!-- End: email <input:email> -->
+                        </div>
+                        <div class="col-sm-6">
+                            <!-- Start: dateFrom <input:text> -->
+                            <div class="form-group">
+                                <label for="date-from" class="p-label-required">Apply Date</label>
+                                <div class="input-group  p-has-icon">
+                                    <input type="text" id="date-from" th:field="*{date}" name="dateFrom" placeholder="dd.mm.yy" data-js-datetimepick="true"  data-date-format="DD.MM.YY" class="form-control" />
+                                    <span class="input-group-state">
+                                        <span class="p-position">
+                                            <span class="p-text">
+                                                <span class="p-valid-text"><i class="fa fa-check"></i></span>
+                                                <span class="p-error-text"><i class="fa fa-times"></i></span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                    <span class="p-field-cb"></span>
+                                    <span class="input-group-icon"><i class="fa fa-calendar"></i></span>
+                                </div>
+                            </div>
+                            <!-- End: dateFrom <input:text> -->
+                        </div>
+                             
+                    </div>
+                     <div class="row">
+                        <div class="col-sm-6">
+                                <!-- Start: service <select> -->
+                                <div class="form-group">
+                                    <label for="service" class="p-label-required">Source</label>
+                                    <label class="input-group  p-has-icon  p-custom-arrow">
+                                        <select  th:field = "*{source}" required="required" class="form-control">
+                                           
+                                            <option th:each="i : ${soruseList}"
+                                            		th:value = "${i.id}"
+                                            		th:text = "${i}">
+                                             </option>
+                                         
+                                        </select>
+                                        <span class="input-group-state">
+                                            <span class="p-position">
+                                                <span class="p-text">
+                                                    <span class="p-required-text"><i class="fa fa-star"></i></span>
+                                                </span>
+                                            </span>
+                                        </span>
+                                        <span class="p-field-cb"></span>
+                                        <span class="p-select-arrow"><i class="fa fa-caret-down"></i></span>
+                                        <span class="input-group-icon"><i class="fa fa-tag"></i></span>
+                                    </label>
+                                </div>
+                                <!-- End: service <select> -->
+                            </div>
+                        </div>
+                    <!-- Start: message <textarea> -->
+                    <div class="form-group">
+                        <label for="message">Description</label>
+                        <div class="input-group  p-has-icon">
+                            <textarea id="message" name="message" th:field="*{extraInfo}" required="required" class="form-control"></textarea>
+                            <span class="input-group-state">
+                                <span class="p-position">
+                                    <span class="p-text">
+                                        <span class="p-required-text"><i class="fa fa-star"></i></span>
+                                    </span>
+                                </span>
+                            </span>
+                            <span class="p-field-cb"></span>
+                            <span class="input-group-icon"><i class="fa fa-file-text-o"></i></span>
+                        </div>
+                    </div>
+                    <!-- End: message <textarea> -->
+                    <div class="p-buttons text-right">
+                        <button class="btn" type="submit" name="confirm"><i class="fa fa-check-square-o"></i>&nbsp;Save</button>
+                    </div>
+                </div>
+            </form>
+            <!-- End: simple skin - Order service -->
+        </div>
+        <script src="./js/jquery.js" type="text/javascript"></script>
+        <!-- jquery ui -->
+        <script src="./js/jquery-ui/js/core.js"></script>
+        <script src="./js/jquery-ui/js/widget.js"></script>
+        <script src="./js/jquery-ui/js/mouse.js"></script>
+        <script src="./js/jquery-ui/js/position.js"></script>
+        <script src="./js/jquery-ui/js/menu.js"></script>
+        <script src="./js/jquery-ui/js/autocomplete.js"></script>
+        <script src="./js/jquery-ui/js/slider.js"></script>
+        <script src="./js/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js"></script>
+        <!-- Helpers -->
+        <script src="./js/moment/moment.js"></script>
+        <script src="./js/moment/locale/da.js"></script>
+        <!-- Validation plugin -->
+        <script src="./js/jquery-validation/jquery.validate.js"></script>
+        <script src="./js/jquery-validation/additional-methods.js"></script>
+        <!-- Field mask plugin -->
+        <script src="./js/jquery-masked-input/jquery.maskedinput.js"></script>
+        <!-- Bootstrap datetimepicker -->
+        <script src="./js/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js"></script>
+        <!-- captcha: Realperson plugin -->
+        <script src="./js/jquery-realperson/jquery.plugin.js"></script>
+        <script src="./js/jquery-realperson/jquery.realperson.js"></script>
+        <!-- colorpicker: Spectrum plugin -->
+        <script src="./js/spectrum/spectrum.js"></script>
+        <!-- ajax: jQuery Form Plugin -->
+        <script src="./js/jquery-form-plugin/jquery.form.js"></script>
+        <!-- Forms Plus plugins/helpers -->
+        <script src="./js/forms-plus/forms-plus.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-value.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-field.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-file.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-spinner.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-validation.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-block.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-elements.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-sub-selection.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-gelements.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-slider.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-autocomplete.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-ajax.js" type="text/javascript"></script>
+        <script src="./js/forms-plus/forms-plus-steps.js" type="text/javascript"></script>
+        <!-- Forms Plus init -->
+        <script src="./js/script.js"></script>
+    </body>
+</html>
